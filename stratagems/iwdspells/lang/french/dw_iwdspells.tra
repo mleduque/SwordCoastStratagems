@@ -99,8 +99,8 @@ Les Cantiques multiples ne sont pas cumulatifs. Ce sort requiert une certaine co
 
 // encode in UTF-8
 
-@201 = ~Peut utiliser la capacité de [^:]+:~ // 1-4 must exactly match the appropriate strings from the BG2 description of the bard song (other than replacing '.' with '\.')
-@202 = ~ *[Aa]ugmente \(le \)?moral à \(sa \)?valeur moyenne,?~
+@201 = ~Peut utiliser la capacit[^ ]+ de[^:]+:~ // 1-4 must exactly match the appropriate strings from the BG2 description of the bard song (other than replacing '.' with '\.')
+@202 = ~ *[Aa]ugmente \(le \)?moral [^ ]+ \(sa \)?valeur moyenne,?~
 @203 = ~ *[Pp]rotection contre la peur\( et\)?~
 @204 = ~ *[Aa]paisement de la peur\.?~
 
@@ -117,7 +117,7 @@ Les Cantiques multiples ne sont pas cumulatifs. Ce sort requiert une certaine co
 @220 = ~Ne connaît pas les chants disponibles pour les bardes classiques.~
 @221 = ~- Aucun~ // must match the string used in kit descriptions to indicate that there are no disadvantages; see, e.g., Jester
 
-@222 = ~Inconvénients :\|Désavantages :\|Désavantages :~ // must match appropriate string from kit descriptions
+@222 = ~Inconv[^n]+nients[^:]*:\|D[^s]+savantages[^:]*:~ // must match appropriate string from kit descriptions
 // bg1ee/bg2ee -> "Inconvénients :" <- this is a non-breakable space
 // obg2 -> "Désavantages :" <- this is an ascii space
 // correctfrbg1ee/correctfrbg2ee -> "Désavantages :" <- this is a non-breakable space
