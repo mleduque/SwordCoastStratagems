@@ -517,6 +517,12 @@ Ce sort fait apparaître une barrière d'ossements flottants qui tourbillonnent 
 @41002 = ~Il ne peut être lancé par un personnage maléfique.~ // NOTE TO TRANSLATORS: Must match the exact string in the description of IWDEE Heal
 @41003 = ~Il ne peut être lancé que par des personnages d'alignement mauvais.~ // NOTE TO TRANSLATORS: Must match the exact string in the description of IWDEE Harm
 
+@41004="Brume de guérison" // renamed from "Brume d'Eldath" bg2ee @103899
+
+@41005="Balor"
+@41006="Diable osseux" // bg2ee @70638
+@41007="Peur du démon" // bg1ee @26038
+
 @50000 = ~Grimoire de la grandiose grandeur~ // NOTE TO TRANSLATORS: don't bother translating this and the next string, it's just a testing item
 @50001 = ~Un simple coup d'œil à ce tome suffit pour donner à son lecteur la connaissance de tous les sortilèges connus, ainsi qu'une intelligence supérieure pour tous les comprendre. Il disparaît après une seule utilisation.
 
