@@ -2,8 +2,8 @@
 
 // SCS leftover, convenient to leave
 // Création de squelette de garde = Convocation de monstres VII (IWD)
-@1 = ~Création de squelette de garde~
-@2 = ~Création de squelette de garde
+@1 = ~Création de squelettes de garde~
+@2 = ~Création de squelettes de garde
 (Nécromancie)
 
 Niveau : 9
@@ -140,22 +140,23 @@ Jet de sauvegarde : annule
 
 Symbole : douleur est un puissant sort qui permet au lanceur d'inscrire un symbole sur le sol ou toute autre surface. Le symbole restera en place jusqu'à ce que quelqu'un s'en approche trop près, auquel cas il explosera. Toutes les créatures situées à moins de 4,5 mètres du symbole doivent effectuer un jet de sauvegarde contre les sorts. Celles qui échouent leur jet de sauvegarde contre les sorts sont submergées par la douleur, subissant un malus de 4 aux jets d'attaque, ainsi qu'un malus de 2 à la Dextérité et à la classe d'armure.~
 
-@300="Conjuration d'élémentaire d'eau mineur
-(Conjuration/Convocation)
+//Jazira : @300 & @301 are reserved for Spell Revisions mod and must use its format
 
+@300="Conjuration d'élémentaire d'eau mineur
 Niveau : 5
-Portée : 13,5 mètres
-Durée : 1 tour + 1 round par niveau
+École : Conjuration
+Portée : moyenne
+Durée : 1 tour + 1 round / niveau
 Temps d'incantation : 8
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
 En jetant un sort de Conjuration d'élémentaire d'eau mineur, le lanceur ouvre un portail magique vers le Plan élémentaire de l'eau et invoque un élémentaire d'eau mineur à proximité. L'élémentaire d'eau mineur a 8 dés de vie. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Maintenir le portail magique vers le Plan élémentaire de l'eau est particulièrement difficile, et il y a 15 % de chances que le portail ouvert par le lanceur se referme avant que l'élémentaire ne pénètre dans le Plan primaire. 
 
-Élémentaire d'eau mineur (8 dés de vie) :
-Force 18/76, Dextérité 17, Constitution 16, Intelligence 6, Sagesse 11, Charisme 11 ; Neutre strict
-Points de vie 80, classe d'armure 2, TAC0 9, jets de sauvegarde 10/12/11/11/13
-2 attaques par round, 2d6 +6 dégâts contondants (frappe comme une arme +2)
+Élémentaire d'eau mineur (8 DV) :
+FOR 18/76, DES 17, CON 16, INT 6, SAG 11, CHA 11 ; Neutre Strict
+PV 80, CA 2, TAC0 9, jets de sauvegarde 10/12/11/11/13
+2 attaques par round, 2d6+6 dégâts contondants (frappe comme une arme +2)
 
 Capacités spéciales :
 - Immunité aux armes non-magiques
@@ -164,26 +165,25 @@ Capacités spéciales :
 - Résistance au froid et au feu : 50 %"
 
 @301="Conjuration d'élémentaire d'eau
-(Conjuration/Convocation)
-
 Niveau : 6
-Portée : 13,5 mètres
-Durée : 1 tour + 1 round par niveau
+École : Conjuration
+Portée : moyenne
+Durée : 1 tour + 1 round / niveau
 Temps d'incantation : 1 round
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
 En jetant un sort de Conjuration d'élémentaire d'eau, le lanceur ouvre un portail magique vers le Plan élémentaire de l'eau et invoque un élémentaire d'eau à proximité. L'élémentaire d'eau a 12 dés de vie. Cependant, après 15 niveaux d'expérience du lanceur, un élémentaire d'eau majeur de 16 dés de vie est invoqué à la place. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Maintenir le portail magique vers le Plan élémentaire de l'eau est particulièrement difficile, et il y a 15 % de chances que le portail ouvert par le lanceur se referme avant que l'élémentaire ne pénètre dans le Plan primaire.
 
-Élémentaire d'eau (12 dés de vie) :
-Force 19, Dextérité 18, Constitution 17, Intelligence 6, Sagesse 11, Charisme 11 ; Neutre strict
-Points de vie 126, classe d'armure 1, TAC0 5, jets de sauvegarde 7/9/8/8/10
-2 attaques par round, 2d8 +10 dégâts contondants (frappe comme une arme +3)
+Élémentaire d'eau (12 DV) :
+FOR 19, DEX 18, CON 17, INT 6, SAG 11, CHA 11 ; Neutre Strict
+PV 126, CA 1, TAC0 5, jets de sauvegarde 7/9/8/8/10
+2 attaques par round, 2d8+10 dégâts contondants (frappe comme une arme +3)
 
-Élémentaire d'eau majeur (16 dés de vie) :
-Force 21, Dextérité 19, Constitution 18, Intelligence 6, Sagesse 11, Charisme 11 ; Neutre strict
-Points de vie 152, classe d'armure 0, TAC0 1, jets de sauvegarde 4/6/5/4/7
-2 attaques par round, 2d10 +12 dégâts contondants (frappe comme une arme +3)
+Élémentaire d'eau majeur (16 DV) :
+FOR 21, DEX 19, CON 18, INT 6, SAG 11, CHA 11 ; Neutre Strict
+PV 152, CA 0, TAC0 1, jets de sauvegarde 4/6/5/4/7
+2 attaques par round, 2d10+12 dégâts contondants (frappe comme une arme +3)
 
 Capacités spéciales :
 - Immunité aux armes non-magiques

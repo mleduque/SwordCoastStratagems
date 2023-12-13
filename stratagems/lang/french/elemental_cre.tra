@@ -99,7 +99,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-En jetant un sort de Conjuration d'élémentaire d'air, le lanceur ouvre un portail magique vers le Plan élémentaire de l'air et invoque un élémentaire d'air à proximité. L'élémentaire d'air a 70 % de chances de posséder 16 dés de vie et 30 % de chances de posséder 24 dés de vie. Le lanceur n'a pas besoin de se concentrer pour le contrôler, ce qui lui permet d'effectuer d'autres actions pendant que l'élémentaire d'eau réduit ses ennemis en lambeaux. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort."
+En jetant un sort de Conjuration d'élémentaire d'air, le lanceur ouvre un portail magique vers le Plan élémentaire de l'air et invoque un élémentaire d'air à proximité. L'élémentaire d'air a 70 % de chances de posséder 16 dés de vie et 30 % de chances de posséder 24 dés de vie. Le lanceur n'a pas besoin de se concentrer pour le contrôler, ce qui lui permet d'effectuer d'autres actions pendant que l'élémentaire d'air réduit ses ennemis en lambeaux. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort."
 
 
 @15="Élémentaire d'air majeur"
@@ -125,7 +125,7 @@ Temps d'incantation : 9
 Zone d'effet : spéciale
 Jet de sauvegarde : aucun
 
-Puisant son énergie dans l'environnement alentour, ce sort convoque 4 élémentaires de 16 dés de vie, un élémentaire de terre, un élémentaire d'air, un élémentaire de terre et un élémentaire d'eau. Les élémentaires suivront les ordres du lanceur jusqu'à ce qu'il soit tués ou jusqu'à l'expiration de la durée du sort."
+Puisant son énergie dans l'environnement alentour, ce sort convoque 4 élémentaires de 16 dés de vie, un élémentaire de terre, un élémentaire d'air, un élémentaire de feu et un élémentaire d'eau. Les élémentaires suivront les ordres du lanceur jusqu'à ce qu'il soit tués ou jusqu'à l'expiration de la durée du sort."
 
 @27="Élémentaire d'air mineur"
 @28="Élémentaire de terre mineur"

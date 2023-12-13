@@ -3,7 +3,7 @@
 (Evocation)
 
 Level: 9
-Range:0
+Range: 0
 Duration: Instant
 Casting Time: 9
 Area of Effect: Enemies within 30ft
@@ -15,7 +15,7 @@ Upon casting this spell, the wizard directs a powerful blast of electricity towa
 @4="Minor Lightning Bolt
 (Evocation)
 
-Level:2
+Level: 2
 Range: Visual range of the caster
 Duration: Instant
 Casting Time: 2
@@ -44,7 +44,7 @@ When this spell is cast, the caster calls up a small Earth Elemental and merges 
 STATISTICS:
 
 Equipped abilities:
-â€“ +2 to Armor Class
+– Armor Class: +2
 
 THAC0: Hits automatically
 Damage: 3d6 + 1d6 per two levels above 3rd (maximum 6d6)
@@ -87,7 +87,7 @@ Range: visual range of caster
 Duration: instant
 Casting Time: 3
 Area of Effect: 60ft. line
-Saving Throw: spc.
+Saving Throw: Special
 
 A blue-white ray of freezing air and ice springs from the caster's hand. The ray inflicts 1d8 points of cold damage per level of the caster to any creature caught in the ray, and freezes the creature in place for one round. A successful save vs. spell at a -2 penalty halves the damage and negates the freezing effect."
 @15="Frozen in place"
@@ -139,6 +139,7 @@ Upon casting this spell, a shard of elemental ice appears in the caster's hand a
 @42="Telekinesis
 (Alteration)
 
+Level: ?
 Range: Visual range of the caster
 Duration: 3 seconds
 Casting Time: 5
@@ -158,6 +159,7 @@ Duration: 8 rounds + 1 round/level
 Casting Time: 9
 Area of Effect: Special
 Saving Throw: None
+
 With the casting of this spell, the wizard calls forth 1d2 boneguards. These undead monstrosities appear within spell range and can be commanded to attack the caster's opponents until the spell duration expires or the monsters are destoyed."
 @52="Boneguard"
 
