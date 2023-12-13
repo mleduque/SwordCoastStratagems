@@ -154,7 +154,7 @@ Jet de sauvegarde : aucun
 En jetant un sort de Conjuration d'élémentaire d'eau mineur, le lanceur ouvre un portail magique vers le Plan élémentaire de l'eau et invoque un élémentaire d'eau mineur à proximité. L'élémentaire d'eau mineur a 8 dés de vie. L'élémentaire suivra les ordres du lanceur jusqu'à ce qu'il soit tué ou jusqu'à l'expiration de la durée du sort. Tous les ordres donnés à l'élémentaire le sont par télépathie, ce qui élimine les risques d'erreurs de compréhension, et il n'est pas nécessaire de connaître la langue de l'élémentaire invoqué. Maintenir le portail magique vers le Plan élémentaire de l'eau est particulièrement difficile, et il y a 15 % de chances que le portail ouvert par le lanceur se referme avant que l'élémentaire ne pénètre dans le Plan primaire. 
 
 Élémentaire d'eau mineur (8 DV) :
-FOR 18/76, DES 17, CON 16, INT 6, SAG 11, CHA 11 ; Neutre Strict
+FOR 18/76, DEX 17, CON 16, INT 6, SAG 11, CHA 11 ; Neutre Strict
 PV 80, CA 2, TAC0 9, jets de sauvegarde 10/12/11/11/13
 2 attaques par round, 2d6+6 dégâts contondants (frappe comme une arme +2)
 
