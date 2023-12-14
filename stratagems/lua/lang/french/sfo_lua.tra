@@ -62,7 +62,7 @@
 @950="Peut lancer des sorts divins" // should be the first few words of the description of spellcasting for, e.g., paladins and clerics
 @951="Peut lancer des sorts de Prêtre" // use this as alternatives to @950 if your language doesn't have consistent strings across classes and games
 @952="Peut lancer des sorts de prêtre"
-@953="SFO_NOT_IN_USE_WURBLE"
+@953="Peut lancer quelques sorts divins"
 @954="SFO_NOT_IN_USE_WURBLE"
 @955="SFO_NOT_IN_USE_WURBLE"
 @956="SFO_NOT_IN_USE_WURBLE"
