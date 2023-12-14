@@ -537,3 +537,6 @@ Poids : 25~
 
 @51000 = "de la moiti[^ ]* du niveau du mage\|de niveau moiti[^ ]+ moindre que le sien" // NOTE TO TRANSLATORS: this string must be present, exactly, in the spell description of Mordenkainen's Force Blade (the IWD version of 'Mordenkainen's sword'.)
 @51001 = "du même niveau que le mage" // NOTE TO TRANSLATORS: this string is substituted for the previous string. The goal is to replace 'fighter of half the level' with 'fighter of the level'
+
+@52000 = "Hâte annulée par Lenteur"
+@52001 = "Lenteur annulée par Hâte"
