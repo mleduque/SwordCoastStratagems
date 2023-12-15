@@ -1,61 +1,63 @@
 
-@401 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches. 
+@401 = ~La version la plus répandue de la hache d'armes est composée d'une robuste hampe de bois d'environ 1,20 mètre de long comportant une croix à l'une de ses extrémités. Cette croix, élément transversal permettant de frapper de taille, comporte généralement une lame convexe à un seul tranchant appelée le taillant ainsi qu'une pointe appelée le bec de corbin à son opposé. Le tout surmonté d'une pointe ou d'une dague servant à frapper d'estoc. Les haches d'armes sont également appelées haches larges ou grandes haches.
 
-Celle-ci a été fabriquée de manière inhabituelle, avec une lame parfaitement équilibrée et aiguisée comme une lame de rasoir. Bien que non magique, elle frappe plus franchement et coupe plus profondément qu'une hache de base.
+Celle-ci a été finement fabriquée de manière inhabituelle, avec une lame parfaitement équilibrée et aiguisée comme une lame de rasoir. Bien que non magique, elle frappe plus franchement et coupe plus profondément qu'une hache d'armes commune.
 
 PARAMÈTRES :
 
-Dégâts : 1d8 +1
 TAC0 : +1
-Type de dégâts : tranchant
-Poids : 7
+Dégâts : 1d8 +1 (tranchant)
 Facteur de vitesse : 7
 Type de compétence : hache
-Type : arme à 1 main
-Force nécessaire : 10
+Type : arme à une main
+Nécessite :
+ 10 en Force
 Non utilisable par :
  Druide
  Clerc
  Mage
  Voleur
  Moine
- Belluaire~
+ Belluaire
+
+Poids : 7~
 @402 = ~Hache d'armes de maître~
 
-@403 = ~L'étoile du matin est un manche en bois couronné d'une tête en métal constituée d'une gaine de fer cloutée. Les étoiles du matin mesurent environ 1,20 m. Certaines de ces armes possèdent une tête de forme ronde, ovale ou cylindrique garnie de clous. Sur la plupart des têtes des étoiles du matin, quelle que soit leur forme, se trouve une longue pointe pour porter une attaque perforante. 
+@403 = ~L'étoile du matin, également connue sous le nom de morgenstern, est un solide manche en bois couronné d'une tête en métal constituée d'une gaine de fer cloutée. Les étoiles du matin ont une longueur totale d'environ 1,20 mètre. Certaines de ces armes possèdent une tête de forme ronde, ovale ou cylindrique garnie de clous, ou plus rarement de lames, servant à frapper de taille. Sur la plupart des têtes des étoiles du matin, quelle que soit leur forme, se trouve une longue pointe à l'extrémité pour frapper d'estoc.
 
 Un soin particulier a été apporté à la fabrication de cette étoile du matin spéciale. Bien qu'elle ne recèle aucune magie, c'est malgré tout une arme efficace et mortelle.
 
 PARAMÈTRES :
 
-Dégâts : 2d4 +1
 TAC0 : +1
-Type de dégâts : contondant
-Poids : 12
+Dégâts : 2d4 +1 (contondant)
 Facteur de vitesse : 7
-Type de compétence : fléau/étoile du matin
-Type : arme à 1 main
-Force nécessaire : 11
+Type de compétence : fléau d'armes/étoile du matin
+Type : arme à une main
+Nécessite :
+ 11 en Force
 Non utilisable par :
  Druide
  Mage
  Voleur
  Moine
- Belluaire~
+ Belluaire
+ 
+Poids : 12~
 @404 = ~Étoile du matin de maître~
 
-@405 = ~L'arc long est similaire à l'arc court, sauf que la branche est pratiquement aussi grande que l'archer, généralement entre 1,80 m et 2 m. Sa portée est supérieure à celle de l'arc court mais sa rapidité de tir est inférieure.
+@405 = ~L'arc long est similaire à l'arc court, sauf que le corps de l'arc est pratiquement aussi grand que l'archer, généralement entre 1,80 mètre et 2 mètres. Sa portée et sa précision sont supérieures à celles de l'arc court mais sa cadence de tir est inférieure. L'arc long est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal.
 
-Celui-ci a été fabriqué avec un soin inhabituel, et est même plus précis et efficace qu'un arc long normal, bien qu'il ne soit pas enchanté.
+Celui-ci a été fabriqué avec un soin inhabituel, et il est encore plus précis et efficace qu'un arc long normal, bien qu'il ne soit pas enchanté.
 
 PARAMÈTRES :
 
 TAC0 : +2
-Poids : 3
 Facteur de vitesse : 7
 Type de compétence : arc long
-Type : arme à 2 mains
-Force nécessaire : 6
+Type : arme à deux mains
+Nécessite :
+ 6 en Force
 Non utilisable par :
  Druide
  Clerc
@@ -63,70 +65,76 @@ Non utilisable par :
  Voleur
  Moine
  Kensai
- Cavalier~
+ Cavalier
+ 
+Poids : 3~
 @406 = ~Arc long de maître~
 
-@407 = ~Les arcs courts ont été développés avant les autres, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Les branches d'un arc court mesurent 1,50 m en moyenne. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur des branches, tantôt on améliorait leur flexibilité sans modifier leur longueur. La première expérience a engendré ce qui s'appelle aujourd'hui l'arc long.
+@407 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première des ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
 
 Celui-ci a été fabriqué à partir d'un bois rare en provenance des lointaines contrées du sud, très recherché par les fabricants d'arcs. Malgré sa petite taille, il est aussi précis qu'un arc long, et légèrement plus puissant.
 
 PARAMÈTRES :
 
 TAC0 : +1
-Poids : 2
 Facteur de vitesse : 6
 Type de compétence : arc court
-Type : arme à 2 mains
-Force nécessaire : 3
+Type : arme à deux mains
+Nécessite :
+ 3 en Force
 Non utilisable par :
  Druide
  Clerc
  Mage
  Moine
  Kensai
- Cavalier~
+ Cavalier
+
+Poids : 2~
 @408 = ~Arc court de maître~
 
-@409 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+@409 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau, plus court et doté d'un seul tranchant. Les dagues mesurent entre 30 centimètres et 40 centimètres en moyenne, bien qu'il n'est pas rare de croiser des modèles plus grands. Facilement dissimulable et très bon marché, elles sont très répandues. Les dagues sont faites pour frapper d'estoc.
  
-Celle-ci est le fruit du travail d'un maître artisan. Bien qu'elle ne soit pas enchantée, son équilibre parfait et sa lame aiguisée en font une belle arme mortelle.
+Celle-ci est le fruit du travail d'un maître artisan. Bien qu'elle ne soit pas enchantée, son équilibre parfait et sa lame aiguisée en font une magnifique arme mortelle.
 
 PARAMÈTRES :
 
-Dégâts : 1d4 +1
 TAC0 : +1
-Type de dégâts : perforant
-Poids : 1
+Dégâts : 1d4 +1 (perforant)
 Facteur de vitesse : 2
 Type de compétence : dague
-Type : arme à 1 main
-Force nécessaire : 3
+Type : arme à une main
+Nécessite :
+ 3 en Force
 Non utilisable par :
  Clerc
- Belluaire~
+ Belluaire
+
+Poids : 1~
 @410 = ~Dague de maître~
 
-@411 = ~De loin l'arme d'hast la plus ancienne et la plus répandue, la hallebarde se compose d'une hache en forme de couperet montée sur un bâton de 1,80 mètre de long. La lame de la hache est équilibrée à l'arrière par un barbillon et surmontée d'une pointe acérée, généralement de forme quadrangulaire. Le barbillon est parfois remplacé par un crochet utilisé pour faire tomber l'ennemi de cheval. La hallebarde est en réalité un croisement entre la lance et la hache. 
+@411 = ~De loin l'arme d'hast la plus ancienne et la plus répandue, la hallebarde est constituée d'une robuste hampe de bois d'environ 1,80 mètre de long comportant une croix à l'une de ses extrémités. Cette croix, élément transversal permettant de frapper de taille, comporte généralement une lame à un seul tranchant en forme de couperet appelée le taillant ainsi qu'une pointe appelée le bec de corbin à son opposé. Le tout surmonté d'une longue pointe ou d'une dague servant à frapper d'estoc. Le bec de corbin est parfois remplacé par un crochet, utilisé pour faire tomber les cavaliers. La hallebarde peut être qualifiée comme étant un croisement entre la hache d'armes et la lance.
 
-Cette hallebarde a été faite avec une attention particulière : de la taille de la pointe à l'éclat miroitant de sa lame de hache, elle est aussi efficace que vous puissiez l'espérer d'une arme forgée sans magie.
+Cette hallebarde a été faite avec une attention particulière : des gravures de la hampe à l'éclat miroitant de la lame du taillant, elle est aussi efficace que vous puissiez l'espérer d'une arme forgée sans magie.
 
 PARAMÈTRES :
 
-Dégâts : 1d10 +1
 TAC0 : +1
-Type de dégâts : perforant
-Poids : 15
+Dégâts : 1d10 +1 (perforant ou tranchant)
 Facteur de vitesse : 9
 Type de compétence : hallebarde
-Type : arme à 2 mains
-Force nécessaire : 13
+Type : arme à deux mains
+Nécessite :
+ 13 en Force
 Non utilisable par :
  Druide
  Clerc
  Mage
  Voleur
  Moine
- Belluaire~
+ Belluaire
+
+Poids : 15~
 @412 = ~Hallebarde de maître~
 
 @413 = ~Les cavaliers peuvent difficilement manier les armes longues. C'est pourquoi de nombreuses armes ont été munies de manches plus courts pouvant être portés d'une seule main. La masse et le fléau sont deux exemples d'armes longues qui ont suivi cette évolution ; le marteau de guerre en est un autre. Le marteau de guerre du cavalier est le descendant du marteau de Lucerne. Il est entièrement fabriqué en acier, avec des rondelles pour protéger et renforcer la prise. Les rondelles sont de petits disques métalliques, souvent en forme de motifs décoratifs. Le manche mesure environ 45 cm de long.
@@ -145,13 +153,13 @@ Type : arme à 1 main
 Force nécessaire : 9
 Non utilisable par :
  Druide
- Mage 
+ Mage
  Voleur
  Moine
  Belluaire~
 @414 = ~Marteau de guerre de maître~
 
-@415 = ~Réputé être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains. 
+@415 = ~Réputé être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
 
 Celui-ci est fait à partir d'un bois inhabituellement résistant, taillé avec grand soin et renforcé de bandes d'acier. Malgré sa simplicité, c'est une arme assez puissante.
 
@@ -192,7 +200,7 @@ Non utilisable par :
  Belluaire~
 @418 = ~Épée bâtarde de maître~
 
-@419 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre et parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante. 
+@419 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre et parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
 
 Celle-ci a été fabriquée de manière inhabituelle. Son équilibre est presque parfait, et sa lame est aiguisée comme une lame de rasoir.
 
@@ -229,7 +237,7 @@ Type : arme à 1 main
 Force nécessaire : 5
 Non utilisable par :
  Druide
- Clerc 
+ Clerc
  Mage
  Belluaire~
 @422 = ~Épée courte de maître~
@@ -338,7 +346,7 @@ Non utilisable par :
  Kensai~
 @432 = ~Arc long composite de maître~
 
-@433 = ~Le fléau est composé d'une solide poignée en bois attachée à une tringle en fer, une baguette de bois comportant des pointes, ou une boule de fer pointue. La poignée et l'équipement qui l'accompagne sont reliés par une charnière ou une chaîne. Celle-ci a été fabriquée avec de l'acier et du bois d'if de qualité. Elle est légère, bien équilibrée et très efficace malgré son absence d'enchantement.
+@433 = ~Le fléau est composé d'une solide poignée en bois attachée à une tringle en fer, une baguette de bois comportant des pointes, ou une boule de fer pointue. La poignée et l'équipement qui l'accompagne sont reliés par une charnière ou une chaîne. Celui-ci a été fabriqué avec de l'acier et du bois d'if de qualité. Il est léger, bien équilibré et très efficace malgré son absence d'enchantement.
 
 PARAMÈTRES :
 
@@ -357,6 +365,7 @@ Non utilisable par :
  Moine
  Belluaire~
 @434 = ~Fléau de maître~
+
 @435 = ~Le katana est une épée légèrement courbée à simple tranchant, dont la lame se termine en pointe. C'est probablement une des meilleures épées jamais conçues. Les étapes de sa fabrication constituent un procédé long et secret qui est considéré plus comme un art que comme une technique. Cette lame représente un aspect important de la culture de Kara-Tur. C'est faire insulte à un samouraï et provoquer sa colère que d'utiliser ou même de toucher son katana. Il est très rare pour un gaïjin, un étranger, de posséder une telle lame. Cela implique que le gaïjin soit l'ami estimé d'un personnage important, ou bien qu'il ait assassiné un samouraï. Le perfectionnement de ce magnifique katana est stupéfiant, même s'il ne porte aucun enchantement. Peu de forgerons sont capables de fabriquer une telle arme.
 
 PARAMÈTRES :
@@ -374,6 +383,7 @@ Non utilisable par :
  Clerc
  Mage~
 @436 = ~Katana de maître~
+
 @437 = ~Le wakizashi est une arme essentielle pour tout samouraï. C'est l'arme qu'il porte en permanence, même en intérieur, et qu'il garde à portée de main pendant son sommeil. Fabriqué de la même façon que le katana, le wakizashi est, malgré sa plus petite taille, une arme redoutable entre les mains d'un pratiquant accompli. Ce wakizashi est exceptionnellement bien confectionné, bien qu'il ne porte aucun enchantement.
 
 PARAMÈTRES :
@@ -391,3 +401,56 @@ Non utilisable par :
  Clerc
  Mage~
 @438 = ~Wakizashi de maître~
+
+@439=~La plupart des gourdins sont de gros bâtons résistants, étroits à une extrémité et plus large à l'autre. Cette arme simple est utilisée depuis que l'homme a découvert les outils. N'importe qui peut trouver un gros morceau de bois et le brandir, d'où l'utilisation très répandue du gourdin. Ce gourdin est cerclé d'acier pour le lester et est inhabituellement bien équilibré.
+
+PARAMÈTRES :
+
+TAC0 : +1
+Dégâts : 1d6+1 
+Type de dégâts : contondant
+Facteur de vitesse : 4
+Type de compétence : gourdin
+Type : arme à 1 main
+Force nécessaire : 5
+
+Poids : 3
+Non utilisable par :
+ Mage~
+@440="Gourdin de maître"
+
+@441=~Une arbalète est un arc monté en croix sur un manche en métal ou en bois, appelé alors un arbrier. L'arc est généralement fabriqué en bois de frêne ou d'if. L'arbalète décoche un carreau lourd (également appelé simplement carreau). Cette arbalète est assemblée avec les meilleurs matériaux avec un savoir-faire admirable.
+
+PARAMÈTRES :
+
+TAC0 : +1
+Dégâts : +3
+Facteur de vitesse : 10
+Type de compétence : arbalète
+Type : arme à 2 mains
+Force nécessaire : 12
+
+Poids : 14
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+@442="Arbalète lourde de maître"
+
+@443=~Une arbalète est un arc monté en croix sur un manche en métal ou en bois, appelé alors un arbrier. L'arc est généralement fabriqué en bois de frêne ou d'if. L'arbalète décoche un carreau lourd (également appelé simplement carreau). Cette arbalète est assemblée avec les meilleurs matériaux avec un savoir-faire admirable.
+
+PARAMÈTRES :
+
+TAC0 : +1
+Dégâts : +1
+Facteur de vitesse : 5
+Type de compétence : arbalète
+Type : arme à 2 mains
+Force nécessaire : 8
+
+Poids : 7
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+@444="Arbalète légère de maître"

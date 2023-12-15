@@ -86,8 +86,8 @@ Lorsque ce sort est lancé, toutes les créatures alliées se trouvant dans un r
 @201 =~Protégé(e) contre le bien~
 @208 =~Protégé(e) contre le bien~
 
-@209="Bouclier démoniaque"
-@210="Protégé(e) par un sort de Bouclier démoniaque"
+@209="Bouclier des fiélons"
+@210="Protégé(e) par un sort de Bouclier des fiélons"
 @211="Ce sort ne peut être lancé que par des personnages d'alignement mauvais."
 @212="Ce sort ne peut pas être lancé par des personnages d'alignement mauvais."
 
