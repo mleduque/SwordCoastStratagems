@@ -78,6 +78,8 @@ BEGIN
 			
 			REPLACE_TEXTUALLY "20\([ .,]?[ .,]?\)000" "%asking_price_thousands%\1000"
 			REPLACE_TEXTUALLY "15\([ .,]?[ .,]?\)000" "%actual_price_thousands%\1000"
+			REPLACE_TEXTUALLY "20 000" "%asking_price_thousands% 000"
+			REPLACE_TEXTUALLY "15 000" "%actual_price_thousands% 000"
 			REPLACE_TEXTUALLY "%asking_price_text_old%" "%asking_price_text%"
 			REPLACE_TEXTUALLY "%actual_price_text_old%" "%actual_price_text%"	
 		END
