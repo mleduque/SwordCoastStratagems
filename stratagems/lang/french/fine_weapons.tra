@@ -1,5 +1,5 @@
 
-@401 = ~La version la plus répandue de la hache d'armes est composée d'une robuste hampe de bois d'environ 1,20 mètre de long comportant une croix à l'une de ses extrémités. Cette croix, élément transversal permettant de frapper de taille, comporte généralement une lame convexe à un seul tranchant appelée le taillant ainsi qu'une pointe appelée le bec de corbin à son opposé. Le tout surmonté d'une pointe ou d'une dague servant à frapper d'estoc. Les haches d'armes sont également appelées haches larges ou grandes haches.
+@401 = ~La version la plus répandue de la hache d'armes est composée d'une robuste hampe de bois d'environ 1,20 mètre de long comportant une croix à l'une de ses extrémités. Cette croix, élément transversal permettant de frapper de taille, comporte généralement une lame convexe à un seul tranchant appelée le taillant, contrebalancée par une pointe appelée le bec de corbin à son opposé. Le tout surmonté d'une pointe ou d'une dague servant à frapper d'estoc. Les haches d'armes sont également appelées haches larges ou grandes haches.
 
 Celle-ci a été finement fabriquée de manière inhabituelle, avec une lame parfaitement équilibrée et aiguisée comme une lame de rasoir. Bien que non magique, elle frappe plus franchement et coupe plus profondément qu'une hache d'armes commune.
 
@@ -73,7 +73,7 @@ Non utilisable par :
 Poids : 3~
 @406 = ~Arc long de maître~
 
-@407 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première des ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
+@407 = ~Les arcs courts ont été fabriqués avant tous les autres types d'arc, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Le corps de l'arc court mesure 1,50 mètre en moyenne. L'arc court est généralement composé d'une seule pièce dans du bois d'if, d'orme ou de frêne très flexible. Ses extrémités sont dotées d'échancrures où est fixée une corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur du corps, tantôt on améliorait sa flexibilité sans modifier sa longueur. La première de ces expériences a engendré ce qui s'appelle aujourd'hui l'arc long.
 
 Celui-ci a été fabriqué à partir d'un bois rare en provenance des lointaines contrées du sud, très recherché par les fabricants d'arcs. Bien qu'il soit non-magique et malgré sa petite taille, il est aussi précis qu'un arc long, et légèrement plus puissant.
 
@@ -118,9 +118,9 @@ Non utilisable par :
 Poids : 1~
 @410 = ~Dague de maître~
 
-@411 = ~De loin l'arme d'hast la plus ancienne et la plus répandue, la hallebarde est constituée d'une robuste hampe de bois d'environ 1,80 mètre de long comportant une croix à l'une de ses extrémités. Cette croix, élément transversal permettant de frapper de taille, comporte généralement une lame à un seul tranchant en forme de couperet appelée le taillant ainsi qu'une pointe appelée le bec de corbin à son opposé. Le tout surmonté d'une longue pointe ou d'une dague servant à frapper d'estoc. Le bec de corbin est parfois remplacé par un crochet, utilisé pour faire tomber les cavaliers. Très polyvalente, la hallebarde peut être qualifiée comme étant un croisement entre la hache d'armes et la lance.
+@411 = ~De loin l'arme d'hast la plus ancienne et la plus répandue, la hallebarde est constituée d'une robuste hampe de bois d'environ 1,80 mètre de long comportant une croix à l'une de ses extrémités. Cette croix, élément transversal permettant de frapper de taille, comporte généralement une lame à un seul tranchant en forme de couperet appelée le taillant, contrebalancée par une pointe appelée le bec de corbin à son opposé. Le tout surmonté d'une longue pointe ou d'une dague servant à frapper d'estoc. Le bec de corbin est parfois remplacé par un crochet, utilisé pour faire tomber les cavaliers. Très polyvalente, la hallebarde peut être qualifiée comme étant un croisement entre la hache d'armes et la lance.
 
-Cette hallebarde a été faite avec une attention particulière : des gravures de la hampe à l'éclat miroitant de la lame du taillant, elle est aussi efficace que vous puissiez l'espérer d'une arme forgée sans magie.
+Cette hallebarde a été faite avec une attention particulière, des gravures de la hampe à l'éclat miroitant de la lame du taillant, elle est aussi efficace que vous puissiez l'espérer d'une arme forgée sans magie.
 
 PARAMÈTRES :
 
@@ -143,7 +143,7 @@ Non utilisable par :
 Poids : 15~
 @412 = ~Hallebarde de maître~
 
-@413 = ~Les cavaliers peuvent difficilement manier les armes à hampe longue lorsqu'ils sont à cheval. C'est pourquoi de nombreuses armes ont été munies de manches plus courts pouvant être tenus d'une seule main. La masse d'armes et le fléau d'armes sont deux exemples d'armes longues qui ont suivi cette évolution, le marteau de guerre en est un autre. Le marteau de guerre du cavalier, également appelé marteau d'armes, est le descendant du marteau de Lucerne. Il est entièrement fabriqué en acier, avec des rondelles pour protéger et renforcer la prise. Les rondelles sont de petits disques métalliques, souvent ornés de décorations. Le manche mesure environ 45 centimètres de long. À l'opposé du marteau se trouve généralement une pointe, appelée le bec de corbin, très efficace pour percer les armures lors des frappes de taille. Le tout surmonté d'une pointe ou d'une dague servant à frapper d'estoc.
+@413 = ~Les cavaliers peuvent difficilement manier les armes à hampe longue lorsqu'ils sont à cheval. C'est pourquoi de nombreuses armes ont été munies de manches plus courts pouvant être tenus d'une seule main. La masse d'armes et le fléau d'armes sont deux exemples d'armes longues qui ont suivi cette évolution, le marteau de guerre en est un autre. Le marteau de guerre du cavalier, également appelé marteau d'armes, est le descendant du marteau de Lucerne. Il est entièrement fabriqué en acier, avec des rondelles pour protéger et renforcer la prise. Les rondelles sont de petits disques métalliques, souvent ornés de décorations. Le manche mesure environ 45 centimètres de long. À l'opposé du marteau se trouve généralement une pointe faisant office de contrepoids, appelée le bec de corbin, très efficace pour percer les armures lors des frappes de taille. Le tout surmonté d'une pointe ou d'une dague servant à frapper d'estoc.
 
 Bien qu'il ne recèle aucune magie, celui-ci est particulièrement bien conçu. Sa tête est parfaitement équilibrée afin que la force et le poids du porteur soient concentrés sur la cible et que cette dernière puisse être frappée avec précision sans que cela compromette la puissance du coup porté.
 
@@ -212,7 +212,7 @@ Non utilisable par :
 Poids : 10~
 @418 = ~Épée bâtarde de maître~
 
-@419 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Certaines épées longues peuvent avoir une lame à simple tranchant, mais la plupart ont une lame à double tranchant ainsi qu'un estoc pointu et acéré à son extrémité. Il n'existe pas de version type : le modèle et la longueur de l'épée varient d'un peuple à un autre et parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 centimètres et 1,20 mètre. Dans le cas des épées les plus longues, la lame peut atteindre jusqu'à un mètre de la longueur totale de l'arme. En plus de sa lame, l'épée longue comporte une garde servant à protéger la main de son porteur, une poignée pour son maniement, ainsi qu'un pommeau faisant office de contrepoids. Malgré son extrémité pointue, cette arme est conçue pour frapper de taille, et non d'estoc.
+@419 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Certaines épées longues peuvent avoir une lame à simple tranchant, mais la plupart ont une lame à double tranchant ainsi qu'un estoc pointu et acéré à son extrémité. Il n'existe pas de version type : le modèle et la longueur de l'épée varient d'un peuple à un autre et parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 centimètres et 1,20 mètre. Dans le cas des épées les plus longues, la lame peut atteindre jusqu'à un mètre de la longueur totale de l'arme. En plus de sa lame, l'épée longue comporte une garde servant à protéger la main de son porteur, une poignée pour son maniement, ainsi qu'un pommeau faisant office de contrepoids. Malgré son extrémité pointue, cette arme est plutôt conçue pour frapper de taille que d'estoc.
 
 Celle-ci a été fabriquée finement de manière inhabituelle. Bien qu'elle ne soit pas enchantée, son équilibre est presque parfait, et sa lame est aiguisée comme une lame de rasoir.
 
@@ -235,7 +235,7 @@ Non utilisable par :
 Poids : 4~
 @420 = ~Épée longue de maître~
 
-@421 = ~L'épée courte, également connue sous le nom de glaive ou épée d'estoc, est le premier type d'épée à être apparu. Grossièrement, on peut comparer une épée courte à une dague dont la lame serait si longue qu'on ne pourrait plus l'appeler ainsi. Le terme épée courte n'entre pas dans les catégories d'épées. Pourtant, il est souvent utilisé pour décrire une lame à double tranchant longue d'environ 60 centimètres à 75 centimètres. L'épée courte est dotée d'une garde servant à protéger la main de son porteur, d'une poignée pour son maniement, ainsi qu'un pommeau faisant office de contrepoids. Bien qu'il soit possible de frapper de taille, la faible portée de cette arme rend la tâche difficile. C'est pourquoi l'extrémité de la lame est presque toujours pointue, idéale pour frapper d'estoc.
+@421 = ~L'épée courte, également connue sous le nom de glaive ou épée d'estoc, est le premier type d'épée à être apparu. Grossièrement, on peut comparer une épée courte à une dague dont la lame serait si longue qu'on ne pourrait plus l'appeler ainsi. Le terme épée courte n'entre pas dans les catégories d'épées. Pourtant, il est souvent utilisé pour décrire une lame à double tranchant longue d'environ 60 centimètres à 75 centimètres. L'épée courte est dotée d'une garde servant à protéger la main de son porteur, d'une poignée pour son maniement, ainsi que d'un pommeau faisant office de contrepoids. Bien qu'il soit possible de frapper de taille, la faible portée de cette arme rend la tâche difficile. C'est pourquoi l'extrémité de la lame est presque toujours pointue, idéale pour frapper d'estoc.
 
 Celle-ci a été fabriquée de manière inhabituelle. Bien qu'elle ne comporte pas d'enchantement, son équilibre est presque parfait, et sa lame est aiguisée comme une lame de rasoir.
 
@@ -258,7 +258,7 @@ Non utilisable par :
 Poids : 3~
 @422 = ~Épée courte de maître~
 
-@423 = ~La lance, l'une des premières armes jamais créées, dont l'usage remonte aux époques les plus primitives, était initialement constituée d'un épieu ou d'un bâton de bois taillé en pointe à l'une de ses extrémités. Avec la découverte et la maîtrise des métaux, les races civilisées ont commencé à remplacer les pointes en bois durci et en silex par des pointes en fer et en acier, d'où le terme « fer de lance ». Arrivés à ce stade, les armuriers ont alors pu expérimenter différents types de fers de lance, ce qui a permis l'élaboration de certains types d'armes d'hast. Les lances sont conçues pour frapper exclusivement d'estoc.
+@423 = ~La lance, l'une des premières armes jamais créées, dont l'usage remonte aux époques les plus primitives, était initialement constituée d'un épieu ou d'un bâton de bois taillé en pointe à l'une de ses extrémités. Avec la découverte et la maîtrise des métaux, les races civilisées ont commencé à remplacer les pointes en bois durci et en silex par des pointes en fer et en acier, d'où le terme « fer de lance ». Arrivés à ce stade, les armuriers ont alors pu expérimenter différents modèles de fers de lance, ce qui a permis l'élaboration de certains types d'armes d'hast. Les lances sont conçues pour frapper exclusivement d'estoc.
 
 La plupart des lances sont des armes rudimentaires produites en grand nombre, mais malgré l'absence de magie, un soin particulier a été apporté à celle-ci. Sa pointe est faite d'un acier de haute qualité et elle est très bien équilibrée.
 
@@ -306,7 +306,7 @@ Non utilisable par :
 Poids : 8~
 @426 = ~Masse d'armes de maître~
 
-@427 = ~L'épée à deux mains, également connue sous les noms de claymore, espadon, flamberge ou encore brand d'arçon, est un dérivé de l'épée longue. Les forgerons ont toujours cherché à améliorer les armes de leur temps. Dans le but d'améliorer l'épée longue, ils ont d'abord allongé la lame. Après la lame, c'est la poignée qui s'est vue allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier ces épées. La longueur totale de l'épée à deux mains varie considérablement entre 1,30 mètre et 2 mètres. L'épée à deux mains est dotée d'une garde servant à protéger les mains de son porteur, d'une poignée pour son maniement, ainsi qu'un pommeau faisant office de contrepoids. Redoutable pour effectuer de grands mouvements de taille, elle est cependant peu pratique pour frapper d'estoc. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques.
+@427 = ~L'épée à deux mains, également connue sous les noms de claymore, espadon, flamberge ou encore brand d'arçon, est un dérivé de l'épée longue. Les forgerons ont toujours cherché à améliorer les armes de leur temps. Dans le but d'améliorer l'épée longue, ils ont d'abord allongé la lame. Après la lame, c'est la poignée qui s'est vue allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier ces épées. La longueur totale de l'épée à deux mains varie considérablement entre 1,30 mètre et 2 mètres. L'épée à deux mains est dotée d'une garde servant à protéger les mains de son porteur, d'une poignée pour son maniement, ainsi que d'un pommeau faisant office de contrepoids. Redoutable pour effectuer de grands mouvements de taille, elle est cependant peu pratique pour frapper d'estoc. La fonction première de l'épée à deux mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques.
 
 Bien qu'elle ne soit pas magique, celle-ci est particulièrement efficace, et a été fabriquée dans le plus fin acier nain.
 
@@ -331,7 +331,7 @@ Non utilisable par :
 Poids : 12~
 @428 = ~Épée à deux mains de maître~
 
-@429 = ~La longue lame incurvée à un seul tranchant est caractéristique à la fois du sabre et du cimeterre, bien que leurs origines proviennent de régions différentes de Féérune. Alors que le sabre est plutôt destiné aux cavaliers, surtout en raison de sa polyvalence et de ses propriétés mécaniques plus adaptées au combat équestre, le cimeterre a une influence orientale plus marquée. Le « shamshir », comme on appelait le cimeterre à l'origine, est plus grand, plus courbe et doté d'une longue pointe acérée permettant de frapper d'estoc. Le cimeterre est doté d'une garde servant à protéger la main de son porteur, d'une poignée pour son maniement, ainsi qu'un pommeau généralement recourbé faisant office de contrepoids. Cela en fait une arme un peu moins maniable et plus lente qu'un sabre, mais en général plus efficace au combat grâce à ses frappes de taille mortelles.
+@429 = ~La longue lame incurvée à un seul tranchant est caractéristique à la fois du sabre et du cimeterre, bien que leurs origines proviennent de régions différentes de Féérune. Alors que le sabre est plutôt destiné aux cavaliers, surtout en raison de sa polyvalence et de ses propriétés mécaniques plus adaptées au combat équestre, le cimeterre a une influence orientale plus marquée. Le « shamshir », comme on appelait le cimeterre à l'origine, est plus grand, plus courbe et doté d'une longue pointe acérée permettant de frapper d'estoc. Le cimeterre est équipé d'une garde servant à protéger la main de son porteur, d'une poignée pour son maniement, ainsi que d'un pommeau généralement recourbé faisant office de contrepoids. Cela en fait une arme un peu moins maniable et plus lente qu'un sabre, mais en général plus efficace au combat grâce à ses frappes de taille mortelles.
 
 Celui-ci est d'une très bonne qualité malgré son absence d'enchantement.
 
@@ -354,7 +354,7 @@ Non utilisable par :
 Poids : 3~
 @430 = ~Cimeterre de maître~
 
-@431 = ~Les arcs composites sont des arcs longs ou courts qui, contrairement aux arc traditionnels fabriqués d'une seule pièce, sont confectionnés à partir de matériaux disparates assemblés selon une technique bien précise. Les branches de l'arc composite, séparées du corps, sont composées de deux lames de bois collées entre elles. La lame de bois faisant face à l'archer est appelée le « ventre » et travaille de manière concentrique, en compression, tandis que la lame appelée le « dos » fait face à la cible et travaille de manière excentrique, en traction. Le dos est confectionné à partir de l'aubier souple du bois, cernes plus clairs de la périphérie externe de l'arbre, alors que le ventre utilise le duramen résistant du bois, cernes internes plus sombres de l'arbre. De plus, il n'est pas rare de voir les branches des arcs composites renforcées avec du métal afin d'augmenter encore plus la tension. Cela rend l'arc composite plus flexible et puissant, ce qui accroît grandement sa portée et ses dégâts, mais en contrepartie, il requiert une grande force à bander. Ceux-ci ont été conçus après l'arc long traditionnel.
+@431 = ~Les arcs composites sont des arcs longs ou courts qui, contrairement aux arc traditionnels fabriqués d'une seule pièce, sont confectionnés à partir de matériaux disparates assemblés selon une technique bien précise. Les branches de l'arc composite, séparées du corps, sont composées de deux lames de bois collées entre elles. La lame de bois faisant face à l'archer est appelée le « ventre » et travaille de manière concentrique, en compression, tandis que la lame appelée le « dos » fait face à la cible et travaille de manière excentrique, en traction. Le dos est confectionné à partir de l'aubier souple du bois, cernes plus clairs de la périphérie externe de l'arbre, alors que le ventre utilise le duramen résistant du bois, cernes internes plus sombres de l'arbre. De plus, il n'est pas rare de voir les branches des arcs composites renforcées avec du métal afin d'augmenter encore plus la tension. Cela rend l'arc composite plus flexible et puissant, ce qui accroît grandement sa portée et ses dégâts, mais en contrepartie, il requiert une grande force pour bander la corde. Cette dernière est fixée à des échancrures aux deux extrémités de l'arc, la corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. Ceux-ci ont été conçus après l'arc long traditionnel.
 
 Bien que non magique, celui-ci a été conçu avec grand soin à partir des matériaux les plus nobles.
 
@@ -405,7 +405,7 @@ Non utilisable par :
 Poids : 12~
 @434 = ~Fléau d'armes de maître~
 
-@435 = ~Le katana est une épée légèrement courbée à simple tranchant, appartenant à la catégorie des sabres, dont la lame se termine en une pointe en biseau pour les frappes d'estoc. La lame mesure en général de 60 centimètres à 80 centimètres, bien qu'il en existe de plus longues encore, tandis que la poignée mesure environ 30 centimètres, permettant l'usage à deux mains. À cela s'ajoute une garde de 5 centimètres protégeant la main et faisant office de contrepoids, en forme de disque ou rectangulaire. C'est probablement un des meilleurs sabres jamais conçus pour frapper de taille. Les étapes de sa fabrication constituent un procédé long et secret qui est considéré plus comme un art que comme une technique. Cette lame représente un aspect important de la culture de Kara-Tur. C'est faire insulte à un samouraï et provoquer sa colère que d'utiliser ou même de toucher son katana. Il est très rare pour un gaïjin, un étranger, de posséder une telle lame. Cela implique que le gaïjin soit l'ami estimé d'un personnage important, ou bien qu'il ait assassiné un samouraï. Ils sont extrêmement rares et couteux sur la Côte des Épées.
+@435 = ~Le katana est une épée légèrement courbée à simple tranchant, appartenant à la catégorie des sabres, dont la lame se termine en une pointe en biseau pour les frappes d'estoc. La lame mesure en général de 60 centimètres à 80 centimètres, bien qu'il en existe de plus longues encore, tandis que la poignée mesure environ 30 centimètres, permettant l'usage à deux mains. À cela s'ajoute une garde de 5 centimètres protégeant la main et faisant office de contrepoids, en forme de disque ou rectangulaire. C'est probablement l'un des meilleurs sabres jamais conçus pour frapper de taille. Les étapes de sa fabrication constituent un procédé long et secret qui est considéré plus comme un art que comme une technique. Cette lame représente un aspect important de la culture de Kara-Tur. C'est faire insulte à un samouraï et provoquer sa colère que d'utiliser ou même de toucher son katana. Il est très rare pour un gaïjin, un étranger, de posséder une telle lame. Cela implique que le gaïjin soit l'ami estimé d'un personnage important, ou bien qu'il ait assassiné un samouraï. Ils sont extrêmement rares et couteux sur la Côte des Épées.
 
 Le perfectionnement de ce magnifique katana est stupéfiant, même s'il ne porte aucun enchantement. Peu de forgerons sont capables de fabriquer une telle arme.
 
@@ -451,41 +451,41 @@ Non utilisable par :
 Poids : 3~
 @438 = ~Wakizashi de maître~
 
-@439=~La plupart des gourdins, également connus sous le nom de massues, sont de gros bâtons de bois dur, étroits à une extrémité, faisant office de poignée et plus larges à l'autre, servant à frapper brutalement ses adversaires. Cette arme primitive est utilisée depuis que l'on a découvert les outils et sa taille peut grandement varier. N'importe qui peut trouver un bon gros morceau de bois et le brandir, d'où l'utilisation très répandue du gourdin. Afin d'augmenter leur létalité, certains gourdins ont été incrustés de silex aiguisés, de crocs acérés ou le bois a été simplement taillé pour présenter des aspérités plus ou moins pointues. À la découverte des métaux, les gourdins se sont très vite vus dotés de renforts et de pointes métalliques afin d'infliger plus de dégâts. Cependant de nombreux puristes, comme les druides, refusent catégoriquement toute intervention civilisationnelle et conservent l'intégrité noble et naturelle du matériau. La masse d'armes et l'étoile du matin sont des évolutions logiques du gourdin.
+@439=~La plupart des gourdins, également connus sous le nom de massues, sont de gros bâtons de bois dur étroits à une extrémité, faisant office de poignée et plus larges à l'autre, servant à frapper brutalement ses adversaires. Cette arme primitive est utilisée depuis que l'on a découvert les outils et sa taille peut grandement varier. N'importe qui peut trouver un bon gros morceau de bois et le brandir, d'où l'utilisation très répandue du gourdin. Afin d'augmenter leur létalité, certains gourdins ont été incrustés de silex aiguisés, enchâssés de crocs animaux acérés ou encore le bois a simplement été taillé pour présenter des aspérités plus ou moins pointues. À la découverte des métaux, les gourdins se sont très vite vus dotés de renforts et de pointes métalliques afin d'infliger plus de dégâts. Cependant de nombreux puristes, comme les druides, refusent catégoriquement toute intervention civilisationnelle et préfèrent conserver l'intégrité noble et naturelle du matériau. La masse d'armes et l'étoile du matin sont des évolutions logiques du gourdin.
 
 Ce gourdin est incrusté de silex aiguisé pour le lester et infliger plus de dégâts, et est inhabituellement bien équilibré pour une arme non-magique aussi primitive.
 
-PARAMÈTRES :
+PARAMÈTRES :
 
 Niveau d'enchantement : 0
-TAC0 : +1
-Dégâts : 1d6 +1 (contondant)
-Facteur de vitesse : 4
-Type de compétence : gourdin
-Type : arme à une main
+TAC0 : +1
+Dégâts : 1d6 +1 (contondant)
+Facteur de vitesse : 4
+Type de compétence : gourdin
+Type : arme à une main
 Nécessite :
  5 en Force
-Non utilisable par :
+Non utilisable par :
  Mage
 
-Poids : 3~
+Poids : 3~
 @440="Gourdin de maître"
 
-@441=~Une arbalète est constituée d'un arc monté en croix sur un manche en métal ou en bois, appelé alors un arbrier. L'arc est généralement fabriqué en bois de frêne ou d'if, ou encore en matériaux composites, parfois même renforcé de métal pour augmenter sa puissance. La corde, quant à elle, est maintenue en tension sur l'arbrier à l'aide d'une petite pièce amovible appelée une noix. Lorsque le tireur actionne la noix en pressant la gâchette, la corde est relâchée et l'arbalète décoche alors un carreau (également appelé une dondaine). L'arbalète lourde, contrairement à ses dérivés d'arbalètes dites légères, du fait de la force surhumaine requise pour bander la corde, se fait à l'aide d'un levier articulé ou d'un cranequin, une sorte de manivelle, poussant la tension à des extrêmes. Cela a pour effet d'infliger davantage de dégâts qu'une arbalète légère, cependant, la vitesse de rechargement du trait est plus lente, affligeant une cadence de tir bien moins élevée.
+@441=~Une arbalète est constituée d'un arc monté en croix sur un manche en métal ou en bois, appelé alors un arbrier. L'arc est généralement fabriqué en bois de frêne ou d'if, ou encore en matériaux composites, parfois même renforcé de métal pour augmenter sa puissance. La corde, quant à elle, est maintenue en tension sur l'arbrier à l'aide d'une petite pièce amovible appelée une noix. Lorsque le porteur actionne la noix en pressant la gâchette, la corde est relâchée et l'arbalète décoche alors un carreau (également appelé une dondaine). Les extrémités de l'arc sont dotées d'échancrures où est fixée la corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. L'arbalète lourde, contrairement à ses dérivés d'arbalètes dites légères, du fait de la force surhumaine requise pour bander la corde, se fait à l'aide d'un levier articulé ou d'un cranequin, une sorte de manivelle, poussant la tension à des extrêmes. Cela a pour effet d'infliger davantage de dégâts qu'une arbalète légère, cependant, la vitesse de rechargement du trait est plus lente, affligeant une cadence de tir bien moins élevée.
 
 Malgré le fait qu'elle ne dispose d'aucun enchantement, cette arbalète a été assemblée avec les meilleurs matériaux avec un savoir-faire admirable.
 
-PARAMÈTRES :
+PARAMÈTRES :
 
 Niveau d'enchantement : 0
-TAC0 : +1
-Dégâts : +3 (projectile)
-Facteur de vitesse : 10
-Type de compétence : arbalète
-Type : arme à deux mains
+TAC0 : +1
+Dégâts : +3 (projectile)
+Facteur de vitesse : 10
+Type de compétence : arbalète
+Type : arme à deux mains
 Nécessite :
  12 en Force
-Non utilisable par :
+Non utilisable par :
  Druide
  Clerc
  Mage
@@ -494,24 +494,24 @@ Non utilisable par :
  Kensai
  Cavalier
 
-Poids : 14~
+Poids : 14~
 @442="Arbalète lourde de maître"
 
-@443=~Une arbalète est constituée d'un arc monté en croix sur un manche en métal ou en bois, appelé alors un arbrier. L'arc est généralement fabriqué en bois de frêne ou d'if, ou encore en matériaux composites, parfois même renforcé de métal pour augmenter sa puissance. La corde, quant à elle, est maintenue en tension sur l'arbrier à l'aide d'une petite pièce amovible appelée une noix. Lorsque le tireur actionne la noix en pressant la gâchette, la corde est relâchée et l'arbalète décoche alors un carreau (également appelé une dondaine). L'arbalète légère, contrairement à ses dérivés d'arbalètes dites lourdes, peut s'armer en bandant la corde à la force des bras et inflige moins de dégâts. Cependant, la vitesse de rechargement du trait est plus rapide, permettant une cadence de tir bien plus élevée.
+@443=~Une arbalète est constituée d'un arc monté en croix sur un manche en métal ou en bois, appelé alors un arbrier. L'arc est généralement fabriqué en bois de frêne ou d'if, ou encore en matériaux composites, parfois même renforcé de métal pour augmenter sa puissance. La corde, quant à elle, est maintenue en tension sur l'arbrier à l'aide d'une petite pièce amovible appelée une noix. Lorsque le porteur actionne la noix en pressant la gâchette, la corde est relâchée et l'arbalète décoche alors un carreau (également appelé une dondaine). Les extrémités de l'arc sont dotées d'échancrures où est fixée la corde servant à mettre l'arc en tension, cette corde est généralement fabriquée en chanvre, en lin ou encore en tendon animal. L'arbalète légère, contrairement à ses dérivés d'arbalètes dites lourdes, peut s'armer en bandant la corde à la force des bras et inflige moins de dégâts. Cependant, la vitesse de rechargement du trait est plus rapide, permettant une cadence de tir bien plus élevée.
 
 Malgré le fait qu'elle ne soit pas magique, cette arbalète légère a été assemblée avec les meilleurs matériaux avec un savoir-faire admirable.
 
-PARAMÈTRES :
+PARAMÈTRES :
 
 Niveau d'enchantement : 0
-TAC0 : +1
-Dégâts : +1 (projectile)
-Facteur de vitesse : 5
-Type de compétence : arbalète
-Type : arme à deux mains
+TAC0 : +1
+Dégâts : +1 (projectile)
+Facteur de vitesse : 5
+Type de compétence : arbalète
+Type : arme à deux mains
 Nécessite :
  8 en Force
-Non utilisable par :
+Non utilisable par :
  Druide
  Clerc
  Mage
@@ -519,5 +519,5 @@ Non utilisable par :
  Kensai
  Cavalier
 
-Poids : 7~
+Poids : 7~
 @444="Arbalète légère de maître"
