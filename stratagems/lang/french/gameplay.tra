@@ -11,8 +11,8 @@ d'Invisibilité. Vous pouvez passer le personnage en mode mêlée (D) et armes �
 2) Le personnage lance quelques sorts de longue durée en dehors des combats. Il y a 4 réglages pour cela, que vous pouvez moduler en appuyant sur (S). Sur 1, le personnage n'utilise aucun sort. Sur 2 et plus, le personnage lance tous les sorts suivants s'ils sont mémorisés (et pas encore actifs) : Peau de pierre, Peaux de fer, Armure, Minuscules météores de Melf et Baies magiques.
 3) Sur 2 et plus, le personnage utilise Baies magiques s'il est blessé et hors combat. Sur 3 et plus, le personnage utilise également des potions de soins. Sur 4, le personnage utilise des potions de grands soins.
 4) Sur 2 et plus, le personnage active automatiquement les objets suivants une fois par jour : la Cape des étoiles, les Bottes de gargouille et le Ceinturon de résistance.
-5) Sur 2 et plus, le personnage lance automatiquement ses sorts de soins de bas niveaux sur le groupe s'il en dispose. Le temps d'incantation de ces sorts est réduit et ne peuvent être effectués en plein combat ; les personnages lancent uniquement des sorts de soins de 2 niveaux de sort ou plus en dessous du plus haut niveau de sort qu'ils peuvent lancer.
-6) Le personnage lance quelques sorts, par raccourcis clavier, sur l'ensemble du groupe. Le temps d'incantation de ces sorts est réduit, ne peuvent être effectués en plein combat, et sont lancés uniquement sur les personnages qui ne sont pas déjà protégés. Sa fonction principale est de servir plus tard dans le jeu, lorsque vous pouvez vous permettre de mémoriser suffisamment de sorts pour protéger l'ensemble du groupe. Les raccourcis sont : (C) pour Ordres chaotiques, (V) pour Protection contre la mort, (B) pour Protection contre le feu, Protection contre la foudre et Protection contre l'énergie magique, et (Z) pour la Protection contre le mal du paladin.~
+5) Sur 2 et plus, le personnage lance automatiquement ses sorts de soins de bas niveaux sur le groupe s'il en dispose. Le temps d'incantation de ces sorts est réduit et ils ne peuvent être lancés en plein combat ; les personnages lancent uniquement des sorts de soins de 2 niveaux de sort ou plus en dessous du plus haut niveau de sort qu'ils peuvent lancer.
+6) Le personnage lance quelques sorts, par raccourcis clavier, sur l'ensemble du groupe. Le temps d'incantation de ces sorts est réduit, ils ne peuvent être lancés en plein combat, et sont lancés uniquement sur les personnages qui ne sont pas déjà protégés. Sa fonction principale est de servir plus tard dans le jeu, lorsque vous pouvez vous permettre de mémoriser suffisamment de sorts pour protéger l'ensemble du groupe. Les raccourcis sont : (C) pour Ordres chaotiques, (V) pour Protection contre la mort, (B) pour Protection contre le feu, Protection contre la foudre et Protection contre l'énergie magique, et (Z) pour la Protection contre le mal du paladin.~
 @607 = ~Mode non-mêlée activé~
 @608 = ~Mode non-mêlée désactivé~
 @609 = ~Le personnage préférera utiliser des armes de mêlée telles que des épées ou des masses d'armes. Vous pouvez activer cette option pour le(s) personnage(s) sélectionné(s) en utilisant la touche de raccourci (D), s'ils sont paramétrés pour attaquer des ennemis.~
@@ -52,21 +52,21 @@ d'Invisibilité. Vous pouvez passer le personnage en mode mêlée (D) et armes �
 @734 = ~Hors combat, le personnage lancera des sorts défensifs personnels de longue durée s'il en dispose. Les sorts utilisés sont Peau de pierre, Peaux de fer, Armure, Esprit impénétrable et Citadelle de l'âme.~
 
 @750 = ~FACILITÉ D'UTILISATION DE L'IA DE SCS~
-@751 = ~Ce script a des fonctions de combat assez minimes : il attaquera en mêlée ou à distance, en priorisant les adversaires qui ne sont pas impuissants, et ne combattra pas si le personnage repousse les morts-vivants, et ne gaspillera pas de sorts de Minuscules météores de Melf, de Lames d'énergie ou d'Invisibilité. Hors combat, le personnage lancera des sorts de soins de bas niveau si nécessaire, activera des objets à capacité de charge de longue durée, et peut être appelé à lancer des sorts défensifs de longue durée sur l'ensemble du groupe, via les touches de raccourci : (C) pour Ordres chaotiques, (V) pour Protection contre la mort, (B) pour Protection contre le feu, Protection contre la foudre et Protection contre l'énergie magique, et (Z) pour la Protection contre le mal du paladin. (Le temps d'incantation de ces sorts est réduit, et ils ne seront pas lancés sur des personnages déjà protégés.)\n Vous pouvez personnaliser le comportement du personnage en ajustant les paramètres dans le menu ci-dessus.~
+@751 = ~Ce script a des fonctions de combat assez minimes : le personnage attaquera en mêlée ou à distance, en priorisant les adversaires qui ne sont pas impuissants, et ne combattra pas si le personnage repousse les morts-vivants, et ne gaspillera pas de sorts de Minuscules météores de Melf, de Lames d'énergie ou d'Invisibilité. Hors combat, le personnage lancera des sorts de soins de bas niveau et utilisera des consommables pour se soigner si nécessaire, activera des objets à capacité de charge de longue durée, et peut être appelé à lancer des sorts défensifs de longue durée sur l'ensemble du groupe, via les touches de raccourci : (C) pour Ordres chaotiques, (V) pour Protection contre la mort, (B) pour Protection contre le feu, Protection contre la foudre et Protection contre l'énergie magique, et (Z) pour la Protection contre le mal du paladin. (Le temps d'incantation de ces sorts est réduit, et ils ne seront pas lancés sur des personnages déjà protégés.)\n Vous pouvez personnaliser le comportement du personnage en ajustant les paramètres dans le menu ci-dessus.~
 
 @1601 = ~Quinze mille~
 @1602 = ~Vingt mille~
 @1603 = ~Trente mille~
 @1604 = ~Quarante mille~
 @1605 = ~Quarante-cinq mille~
-@1606 = ~Soixante mill~
+@1606 = ~Soixante mille~
 @1607 = ~Quatre-vingt mille~
 @1608 = ~Soixante-quinze mille~
 @1609 = ~Cent mille~
 @1610 = ~Quatre-vingt-dix mille~
 @1611 = ~Cent vingt mille~
 
-@4200 = ~Le journal est épais et rempli de diverses inscriptions qui semblent, du moins au début, en elfique. Elles relatent l'horreur de l'écrivain face à son sort, celui d'être prisonnier dans un labyrinthe, affichant sa frustration face au fait d'emprunter de nouveau un portail franchi il y a à peine de cela quelques minutes ne le ramène pas à son point de départ. Il est clair que l'auteur se sent morose et coupable d'avoir abandonné ses compagnons décédés et son écriture se dégrade au fil du temps, se transformant en gribouillages infantiles, en diatribes paranoïaques et incohérentes sur les démons et en de nombreuses références enflammées envers un certain « Yakman » sont écrites tout au long du journal.
+@4200 = ~Le journal est épais et rempli de diverses inscriptions qui semblent, du moins au début, en elfique. Elles relatent l'horreur de l'écrivain face à son sort, celui d'être prisonnier dans un labyrinthe, affichant sa frustration face au fait d'emprunter de nouveau un portail franchi il y a à peine de cela quelques minutes qui ne le ramène pas à son point de départ. Il est clair que l'auteur se sent morose et coupable d'avoir abandonné ses compagnons décédés et son écriture se dégrade au fil du temps, se transformant en gribouillages infantiles, en diatribes paranoïaques et incohérentes sur les démons et en de nombreuses références enflammées envers un certain « Yakman » sont écrites tout au long du journal.
 
 PARAMÈTRES :
 
@@ -85,14 +85,14 @@ Poids : 0~
 @22211 = ~En fait, je me suis dit que j'allais quand même faire toutes les quêtes malgré tout, ce qui me permettrait d'acquérir deux fois plus d'or et d'expérience.~
 @22212 = ~C'est par ici.~
 @22213 = ~Très bien, <CHARNAME>, mais dépêchez-vous, je n'ai pas toute la journée.~
-@22214 = ~En tout cas, vous ne réalisez pas comme cela peut être dangereux ici pour vous. Ces chasseurs de primes peuvent vous faire jusqu'à un point de dégât par coup !~
-@22215 = ~Je comprends parfaitement, <CHARNAME>. De plus grands héros que vous ont succombé à la tentation d'obtenir deux gemmes d'œil de lynx.~ ~Je comprends parfaitement, <CHARNAME>. De plus grandes héroïnes que vous ont succombé à la tentation d'obtenir deux gemmes d'œil de lynx.~
+@22214 = ~Quoi qu'il en soit, vous ne réalisez pas comme cela peut être dangereux ici pour vous. Ces chasseurs de primes peuvent vous faire jusqu'à un point de dégât par coup !~
+@22215 = ~Je comprends parfaitement, <CHARNAME>. De plus grands héros que vous ont succombé à la tentation d'obtenir deux gemmes œil de lynx.~ ~Je comprends parfaitement, <CHARNAME>. De plus grandes héroïnes que vous ont succombé à la tentation d'obtenir deux gemmes œil de lynx.~
 @22300 = ~~
 
-@23000 = ~Pour que ce sort fonctionne, le corps de la créature ciblée doit être essentiellement intact. Les créatures désintégrées, démembrées ou incinérées ne peuvent être ramenées à la vie par ce biais.~
+@23000 = ~Pour que ce sort fonctionne, le corps de la créature ciblée doit être en grande partie intact. Les créatures désintégrées, démembrées ou incinérées ne peuvent être ramenées à la vie par ce biais.~
 @23001 = ~Le corps de ce personnage a subi de terribles dommages. Un sort plus puissant est nécessaire pour le ramener à la vie.~
-@23002 = ~Même une infime partie du corps du personnage suffit, ce sort peut donc ramener à la vie les personnages qui ont été désintégrés, incinérés ou démembrés. Il ne peut être lancé en combat.~
-@23003 = ~Ce sort nécessite un diamant pour être lancé. Vous n'en possédez pas, donc le sort est perdu.~
+@23002 = ~Même une infime partie du corps du personnage suffit, ce sort peut donc ramener à la vie les personnages qui ont été désintégrés, incinérés ou démembrés. Il ne peut être lancé en plein combat.~
+@23003 = ~Ce sort nécessite un diamant pour être lancé. Vous n'en possédez pas, donc le sort a été perdu.~
 @23004 = ~Ce sort nécessite un diamant comme composante matérielle.~
 @23005 = ~Le personnage sélectionné est ramené d'entre les morts à condition que son corps soit en grande partie intact. Ce sort ne peut ramener à la vie les créatures désintégrées, démembrées ou incinérées.~
 @23006 = ~Le sort Résurrection ramène un personnage à la vie et le soigne de toute blessure. Même une infime partie du corps du personnage suffit, ainsi même un personnage qui a été désintégré, incinéré ou démembré peut être ramené d'entre les morts.~
@@ -109,5 +109,5 @@ Poids : 0~
 
 @24100 = "Bien reposé(e)"
 @24101 = "Avantage du repos (8 heures) : bonus de 5 points de vie maximum."
-@24102 = "Avantage du repos (16 heures) : bonus de 5 points de vie maximum, de 1 à la Force, la Dextérité et la Constitution (18 maximum)."
-@24103 = "Avantage du repos (24 heures) : bonus de 10 points de vie maximum, de 1 à la Force, la Dextérité et la Constitution (18 maximum), et de 1 aux jets de sauvegarde."
+@24102 = "Avantage du repos (16 heures) : bonus de 5 points de vie maximum, de 1 à la Force, à la Dextérité et à la Constitution (18 maximum)."
+@24103 = "Avantage du repos (24 heures) : bonus de 10 points de vie maximum, de 1 à la Force, à la Dextérité et à la Constitution (18 maximum), et de 1 aux jets de sauvegarde."

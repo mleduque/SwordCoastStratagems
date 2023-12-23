@@ -3,87 +3,105 @@
 @21302 = ~Garde Kobold~
 @21303 = ~Chaman Kobold~
 @21304 = ~Dague~
-@21305 = ~« Empal Gnom »~
+@21305 = ~« Empal gnom »~
 
-@21306 = ~La dague traditionnelle comporte une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+@21306 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau, plus court et doté d'un seul tranchant. Les dagues mesurent entre 30 centimètres et 40 centimètres en moyenne, bien qu'il n'est pas rare de croiser des modèles plus grands. Facilement dissimulable et très bon marché, elles sont très répandues. Les dagues sont faites pour frapper d'estoc.
  
 PARAMÈTRES :
 
-Dégâts : 1d4
-Type de dégâts : perforant
-Poids : 1
+Dégâts : 1d4 (perforant)
 Facteur de vitesse : 2
-Type de compétence : petite épée
-Type : arme à 1 main
+Type de compétence : dague
+Type : arme à une main
+Nécessite :
+ 3 en Force
 Non utilisable par :
- Clerc~
-@21307 = ~Dague « Empal Gnom »
+ Clerc
 
-Bien que les kobolds ne possèdent normalement pas de dagues empoisonnées, il est évident qu'on leur a donné les moyens de fabriquer celle-ci. La fabrication grossière de cette arme, cependant, n'amoindrit pas sa dangerosité. En fait, elle peut se révéler aussi mortelle pour le porteur que pour la victime !
+Poids : 1~
+@21307 = ~Dague « Empal gnom »
+
+Bien que les kobolds ne possèdent normalement pas de dagues empoisonnées, il est évident qu'on leur a donné les moyens de fabriquer celle-ci. La facture grossière de cette arme, cependant, n'en amoindrit pas sa dangerosité pour autant. En fait, elle peut se révéler aussi mortelle pour le porteur que pour sa victime.
 
 PARAMÈTRES :
 
-Dégâts : 1d4, +6 de poison (jet de sauvegarde pour annuler)
-Spécial : 5 % de chances de se blesser soi-même (6 points de dégâts de poison)
-Type de dégâts : perforant
-Poids : 1
+Capacités de combat :
+- 5 % de chances d'infliger 6 points de dégâts de poison au porteur
+
+Dégâts : 1d4 (perforant), +6 (poison, jet de sauvegarde contre les poisons pour annuler)
 Facteur de vitesse : 2
-Type de compétence : petite épée
-Type : arme à 1 main
+Type de compétence : dague
+Type : arme à une main
+Nécessite :
+ 3 en Force
 Non utilisable par :
- Clerc~
+ Clerc
+
+Poids : 1~
  
 @21308 = ~Flèche empoisonnée~
-@21309 = ~Flèche « Pik Mortèl »
+@21309 = ~Flèche « Pik mortèl »
 
-Cette flèche n'est pas d'une qualité exceptionnelle, et a été, en fait, plutôt grossièrement fabriquée. Cependant, elle a été trempée dans une toxine mortelle qui la rend particulièrement dangereuse, autant pour l'archer que pour sa cible.
+Cette flèche n'est pas d'une qualité exceptionnelle, et a été, en réalité, plutôt grossièrement fabriquée. Cependant, elle a été trempée dans une toxine mortelle qui la rend particulièrement dangereuse, autant pour l'archer que pour sa cible.
 
 PARAMÈTRES :
 
-Dégâts : 1d6, +12 de poison en 6 secondes
-Spécial : 5 % de chances que l'archer s'empoisonne lui-même
-Poids : 0
-Arme de jet : arc
+Capacités de combat :
+- La cible subit 12 point de dégâts de poison en 6 secondes (jet de sauvegarde contre les poisons pour annuler?)
+- 5 % de chances que le porteur s'empoisonne lui-même
+
+Dégâts : 1d6 (projectile)
+Arme de trait : arc
 Non utilisable par :
  Clerc
  Druide
- Mage~
+ Mage
+ Moine
+
+Poids : 0~
  
-@21316 = ~La dague traditionnelle comporte une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+@21316 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau, plus court et doté d'un seul tranchant. Les dagues mesurent entre 30 centimètres et 40 centimètres en moyenne, bien qu'il n'est pas rare de croiser des modèles plus grands. Facilement dissimulable et très bon marché, elles sont très répandues. Les dagues sont faites pour frapper d'estoc.
 
 PARAMÈTRES :
 
-Dégâts : 1d4
-Type de dégâts : perforant
-Poids : 1
+Dégâts : 1d4 (perforant)
 Facteur de vitesse : 2
 Type de compétence : dague
-Type : arme à 1 main~
+Type : arme à une main
+Nécessite :
+ 3 en Force
 
-@21317 = ~Dague « Empal Gnom »
+Poids : 1~
 
-Bien que les kobolds ne possèdent normalement pas de dagues empoisonnées, il est évident qu'on leur a donné les moyens de fabriquer celle-ci. La fabrication grossière de cette arme, cependant, n'amoindrit pas sa dangerosité. En fait, elle peut se révéler aussi mortelle pour le porteur que pour la victime !
+@21317 = ~Dague « Empal gnom »
+
+Bien que les kobolds ne possèdent normalement pas de dagues empoisonnées, il est évident qu'on leur a donné les moyens de fabriquer celle-ci. La facture grossière de cette arme, cependant, n'en amoindrit pas sa dangerosité pour autant. En fait, elle peut se révéler aussi mortelle pour le porteur que pour sa victime.
 
 PARAMÈTRES :
 
-Spécial : 5 % de chances de se blesser soi-même (6 points de poison)
+Capacités de combat :
+- 5 % de chances d'infliger 6 points de dégâts de poison au porteur
 
-Dégâts : 1d4, +6 de poison (jet de sauvegarde pour annuler)
-Type de dégâts : perforant
-Poids : 1
+Dégâts : 1d4 (perforant), +6 (poison, jet de sauvegarde contre les poisons pour annuler)
 Facteur de vitesse : 2
 Type de compétence : dague
-Type : arme à 1 main~
+Type : arme à une main
+Nécessite :
+ 3 en Force
 
-@21319 = ~Flèche « Pik Mortèl »
+Poids : 1~
 
-Cette flèche n'est pas d'une qualité exceptionnelle, et a été, en fait, plutôt grossièrement fabriquée. Cependant, elle a été trempée dans une toxine mortelle qui la rend particulièrement dangereuse, autant pour l'archer que pour sa cible.
+@21319 = ~Flèche « Pik mortèl »
+
+Cette flèche n'est pas d'une qualité exceptionnelle, et a été, en réalité, plutôt grossièrement fabriquée. Cependant, elle a été trempée dans une toxine mortelle qui la rend particulièrement dangereuse, autant pour l'archer que pour sa cible.
 
 PARAMÈTRES :
 
-Spécial : 5 % de chances que l'archer s'empoisonne lui-même
+Capacités de combat :
+- La cible subit 12 point de dégâts de poison en 6 secondes (jet de sauvegarde contre les poisons pour annuler?)
+- 5 % de chances que le porteur s'empoisonne lui-même
 
-Dégâts : 1d6, +12 de poison en 6 secondes
-Type de dégâts : projectile (perforant)
-Poids : 0
-Arme de jet : arc~
+Dégâts : 1d6 (projectile)
+Arme de trait : arc
+
+Poids : 0~
