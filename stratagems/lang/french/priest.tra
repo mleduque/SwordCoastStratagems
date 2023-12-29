@@ -15,7 +15,7 @@
 
 @5000="J'ai foi en dame Tymora !"
 @5001="Tymora, veillez sur moi !"
-@5002="Que dame Tymora me sourit !"
+@5002="Que dame Tymora me sourît !"
 
 @5010="Par Tempus !"
 @5011="Pour le Seigneur des Batailles !"
@@ -29,11 +29,11 @@
 
 @5040="Pour le Filleul ! Pour Xvim !"
 @5041="J'apporte le courroux d'Iyachtu Xvim !"
-@5042="Fils de Baine, terrasse mes ennemis !"
+@5042="Ô Fils de Baine, terrassez mes ennemis !"
 
 @5050="Brûlez dans les flammes de Kossuth !"
-@5051="Seigneur des flammes, embrasez mes ennemis !"
-@5052="Puisse le courroux du Seigneur du Feu vous consumer !"
+@5051="Ô Seigneur des flammes, embrasez mes ennemis !"
+@5052="Puisse le courroux du Seigneur du feu vous consumer !"
 
 @5060="Heaum me protègera !"
 @5061="Au nom de Heaum !"
@@ -56,13 +56,13 @@
 
 @5110="Goûtez à la rage de Malar !"
 @5111="Pour le Seigneur des Bêtes!"
-@5112="Malar, je chasse en ton nom !"
+@5112="Malar, je chasse en votre nom !"
 
-@5120="Aidez-moi, Seigneur de l'ombre !"
+@5120="Aidez-moi, ô Seigneur de l'ombre !"
 @5121="Au nom de Mask, je frappe !"
 
 @5130="Pour la Dame d'Argent !"
-@5131="Séluné, accordez-moi votre bénédiction !"
+@5131="Ô Séluné, accordez-moi votre bénédiction !"
 @5132="Au nom de la Vierge Lunaire !"
 
 @5140="Que les ténèbres de Shar vous aveuglent !"
@@ -77,7 +77,7 @@
 @5162="Pour Tyr l'Impartial !"
 @5163="Au nom de Tyr !"
 
-@5170="Ilmater, laissez-moi endurer cela !"
+@5170="Ô Ilmater, laissez-moi endurer cela !"
 @5171="Le Dieu Pleureur me protègera !"
 
 @5180="Le Seigneur des Ossements vous emportera..."

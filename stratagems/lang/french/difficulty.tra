@@ -103,8 +103,8 @@
 @231 = "Les spectateurs utilisent surtout leurs pédoncules les moins mortels (charme, peur, domination, paralysie, blessures, ralentissement) et n'utilisent pas leur œil central de suppression magique. Les reines-mères n'utilisent que leur magie la plus faible."
 @232 = "Les spectateurs utilisent également leur œil central contre les lanceurs de sorts profanes et les défenses du groupe. Les reines-mères utilisent toute leur gamme de sorts."
 @233 = "Les spectateurs utilisent leurs pédoncules de rayon de mort, de pétrification et de télékinésie."
-@234 = "Les spectateurs utilisent leurs pédoncules de télékinésie pour voler certains objets du groupe (notamment le Bouclier de Baldurien, si vous l'avez équipé). Ils utilisent leurs pédoncules de désintégration si vous avez installé le composant « Effets de mort révisés »."
-@235 = "Les spectateurs utilisent leurs pédoncules de désintégration, que vous ayez ou non installé le composant « Effets de mort révisés »."
+@234 = "Les spectateurs utilisent leurs pédoncules de télékinésie pour voler certains objets du groupe (notamment le Bouclier de Baldurien, si vous l'avez équipé). Ils utilisent leurs pédoncules de désintégration si vous avez installé le composant « Révision des effets de mort »."
+@235 = "Les spectateurs utilisent leurs pédoncules de désintégration, que vous ayez ou non installé le composant « Révision des effets de mort »."
 
 // Illithids
 
