@@ -91,7 +91,7 @@
 @230 = ~Skipping this component, as a very similar change is already installed via Spell Revisions~
 @231 = ~Skipping this component, as a very similar change is already installed via Tome and Blood~
 @232 = ~Thieves assign skill points in multiples of five~
-@233 = ~Restoration and Lesser Restoration spells heal ability-score damage~
+@233 = ~Greater Restoration and Lesser Restoration spells heal ability-score damage~
 @234 = ~Skipping this component, as it conflicts with changes made by Spell Revisions~
 
 @1000 = ~Spell system revisions and new spells~
@@ -275,6 +275,6 @@
 @50010 = ~This component is incompatible with the Tweaks Anthology component that prevents humans from dual-classing~
 @50011 = ~Batch mode is only available for Windows installs~
 @50012 = ~This component is only used in batch mode~
-@50013 = ~This component is now included in the 'Stratagems spell tweaks' component~
+@50013 = ~This component is now included in the 'Core Stratagems spell-system changes' component~
 @50014 = ~This component is incompatible with the 'revised and rebalanced kits' component of Talents of Faerun~
 @50015 = ~Skipping this component as an equivalent component from Talents of Faerun is already installed~

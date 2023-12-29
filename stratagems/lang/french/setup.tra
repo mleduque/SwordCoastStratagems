@@ -4,7 +4,7 @@
 @6 = ~Ameliorations de l'IA~
 @7 = ~Facilite d'utilisation de l'IA de groupe plus simple~
 @8 = ~Ce composant necessite le composant principal "Initialisation des composants de l'IA"~
-@11 = ~Permettre au sort Aneantissement des defenses (EE)/Sort d'assaut (vanilla) d'abattre les Parchemins de protection contre la magie~
+@11 = ~Permettre au sort Aneantissement des defenses d'abattre les Parchemins de protection contre la magie~
 @12 = ~Sort de Breche plus coherent (affecte toujours les liches et les rakshasas ; n'abat pas un sort de Renvoi des sorts).~
 @13 = ~Les attaques d'antimagie contournent le sort Invisibilite majeure~
 @14 = ~Le sort Peaux de fer se comporte comme le sort Peau de pierre (peut etre abattu par un sort de Breche)~
@@ -15,14 +15,14 @@
 @21 = ~Plafonnement des degats infliges par le sort Piege a cranes a 12d6 maximum~
 @22 = ~Faire des Minuscules meteores de Melf des armes +2~
 @23 = ~Le sort Mot de pouvoir : cecite n'affecte qu'une seule creature~
-@27 = ~L'extension "le Siege de Paldragon/ le Siege de Vougedragon" doit etre fusionnee avec Modmerge au jeu avant d'installer des mods. Consultez le readme pour trouver plus d'informations et un lien pour telecharger Modmerge.~
+@27 = ~L'extension "le Siege de Paldragon" doit etre fusionnee au jeu avec Modmerge avant d'installer des mods. Consultez le readme pour trouver plus d'informations et un lien pour telecharger Modmerge.~
 
 @28 = ~Terminer l'installation en mode batch~
 @29 = ~Installer les composants selectionnes en mode batch. ATTENTION : pour des raisons techniques, vous verrez d'abord la liste de vos composants comme etant desinstalles et l'on vous demandera de selectionner a nouveau votre langue. Il s'agit d'un comportement intentionnel qui n'indique pas un bogue dans le composant.~
 @30 = ~Creer un fichier d'installation batch (et desinstaller tous les composants installes)~
 
 @31 = ~Retirer le Bouclier de Baldurien du jeu~
-@32 = ~Retirer la capacite d'equipement Invisibilite du Baton du magicien/Baton du mage~
+@32 = ~Retirer la capacite d'equipement Invisibilite du Baton du magicien~
 @33 = ~Deplacer le Heaume de Vhailor dans la partie le Trone de Bhaal du jeu~
 @34 = ~Deplacer la Robe de Vecna dans la partie le Trone de Bhaal du jeu~
 @35 = ~Remplacer beaucoup d'armes magiques +1 par des armes non-magiques de "maitre"~
@@ -37,7 +37,7 @@
 @48 = ~Retirer les projectiles exagerement opportuns du jeu~
 @49 = ~Rendre la Tour de Garde accessible entre les parties les Ombres de l'Amn et le Trone de Bhaal du jeu (attention : ceci la rendra inaccessible jusqu'a la fin de la partie les Ombres de l'Amn du jeu)~
 @50 = ~Retirer l'animation de la Cape de renvoi (mais la conserver pour les sorts et effets qui utilisent les memes graphismes)~
-@51 = ~Deplacer Bouh des objets rapides aux objets personnels (sac) de Minsc~
+@51 = ~Deplacer Bouh des objets rapides aux objets personnels de Minsc~
 @61 = ~IA generale plus intelligente~
 @62 = ~Meilleurs appels a l'aide~
 @63 = ~Demons et celestes ameliores~
@@ -61,10 +61,10 @@
 @169 = ~Reduire la puissance de la Dissipation de la magie des inquisiteurs~
 @170 = ~Dissipation de la magie des inquisiteurs a 1,5 fois leur niveau actuel (et non deux fois)~
 @171 = ~Dissipation de la magie des inquisiteurs a leur niveau actuel (et non deux fois)~
-@172 = ~Seigneur des ombres/Seigneur de l'ombre ameliore~
+@172 = ~Seigneur des ombres ameliore~
 @173 = ~Antre d'Abazigal amelioree~
 @180 = ~Temple des geants de feu ameliore~
-@181 = ~Les objets des membres du groupe leur sont enleves a Spellhold/Brisesort~
+@181 = ~Les objets des membres du groupe leur sont enleves a Spellhold~
 @182 = ~Trolls plus resistants~
 @187 = ~Vampires ameliores~
 @188 = ~Bodhi amelioree~
@@ -91,18 +91,18 @@
 @230 = ~Ce composant est omis, car un composant tres similaire est deja installe via le mod Spell Revisions~
 @231 = ~Ce composant est omis, car un composant tres similaire est deja installe via le mod Tome and Blood~
 @232 = ~Les roublards attribuent leurs points de talents de roublards par multiples de cinq~
-@233 = ~Les sorts Restauration et Restauration mineure/Restitution mineure restaurent egalement les absorptions de scores de caracteristiques~
+@233 = ~Les sorts Restauration majeure et Restauration mineure restaurent egalement les absorptions de scores de caracteristiques~
 @234 = ~Ce composant est omis, car il est incompatible avec un composant installe via le mod Spell Revisions~
 
 @1000 = ~Revision du systeme de sorts et nouveaux sorts~
 
 
-@1006 = ~Installer toutes les modifications de sorts (si vous ne selectionnez pas cette option, vous aurez la possibilite de choisir par categorie)~
+@1006 = ~Installer toutes les modifications de sorts (si vous ne selectionnez pas cette option, vous aurez la possibilite de les choisir par categorie)~
 
 @1007 = ~Composant principal des modifications du systeme de sort de Stratagems (installe par defaut par tout composant d'IA)~
 @1008 = ~Modifications inspirees de Baldur's Gate pour les sorts d'Icewind Dale~
 @1009 = ~Modifications des sorts de type Restauration~
-@1010 = ~Modifications des sorts de type Métamorphose~
+@1010 = ~Modifications des sorts de type Metamorphose~
 @1011 = ~Modifications inspirees d'Icewind Dale pour les sorts de Baldur's Gate/Baldur's Gate II~
 @1012 = ~Reequilibrage des sorts un peu trop puissants~
 @1013 = ~Modifications des ecoles de magie~
@@ -125,7 +125,7 @@
 @2002 = ~Ce composant n'est compatible qu'avec Baldur's Gate : Enhanced Edition et Baldur's Gate II : Enhanced Edition~
 
 @3203 = ~Rencontres mineures ameliorees~
-@3209 = ~Antagoniste final du Trône de Bhaal plus intelligent~
+@3209 = ~Antagoniste final du Trone de Bhaal plus intelligent~
 @3306 = ~Illasera plus intelligente~
 @3307 = ~Yaga-Shura plus intelligent~
 @3308 = ~Abazigal plus intelligent~
@@ -151,7 +151,7 @@
 @3353 = ~Augmenter la puissance des sorts Manteau, Manteau ameliore et Immunite absolue~
 @3354 = ~Separer les capacites de charge Guerison et Rappel a la vie du Sceptre de resurrection~
 @3356 = ~Enlever l'effet de flou des graphismes de la Cape de deplacement~
-@3357 = ~Combat contre Irenicus a Spellhold/Brisesort ameliore~
+@3357 = ~Combat contre Irenicus a Spellhold ameliore~
 @3362 = ~Modifier Carsomyr afin que sa capacite de combat Dissipation de la magie permette un jet de sauvegarde contre les sorts~
 @3365 = ~Rendre aleatoire le labyrinthe de la Tour de Garde~
 @3366 = ~Augmenter le prix de la licence pour pratiquer la magie a Athkatla~
@@ -169,7 +169,7 @@
 @3381 = ~La reputation augmente a la moitie de sa vitesse normale~
 @3382 = ~La reputation augmente au tiers de sa vitesse normale~
 @3383 = ~La reputation augmente au quart de sa vitesse normale~
-@3386 = ~Rendre possible l'apprentissage des sorts de type Sequenceur de sorts, Declencheur de sorts et Contingence pour tous les mages quelle que soit leur spécialisation~
+@3386 = ~Rendre possible l'apprentissage des sorts de type Sequenceur de sorts, Declencheur de sorts et Contingence pour tous les mages quelle que soit leur specialisation~
 @3387 = ~Ajouter une copie supplementaire de certains parchemins de sorts difficiles a trouver~
 @3391 = ~Ce composant est omis, car l'equivalent du composant est deja installe via le mod ToBEx~
 @3392 = ~Le sort Vision veritable protege de la cecite magique~
@@ -181,7 +181,7 @@
 @3401 = ~Revision des effets de mort comme la desintegration, la petrification et l'emprisonnement (les membres du groupe qui sont desintegres, etc. peuvent etre ressuscites, les personnages emprisonnes ou petrifies rejoignent automatiquement le groupe, le jeu ne prend pas fin si le personnage principal est petrifie ou emprisonne).~
 @3402 = ~Revision du repos : se reposer en exterieur consomme des provisions~
 
-@3403 = ~Revision des chambres des auberges : plus le prix est important, plus il y a d'avantages.~
+@3403 = ~Revision des chambres d'auberges : plus le prix est important, plus il y a d'avantages.~
 @10005 = ~Installer en utilisant le mode batch (demande pour chaque composant avant de commencer l'installation). NE PAS UTILISER AVEC LE PROJECT INFINITY.~
 
 @10028 = ~Terminer l'installation en mode batch~
@@ -235,7 +235,7 @@
 @20070 = ~Deploiements des groupes d'assassins ameliores~
 @20071 = ~S'assurer que Shar-Teel ne meurt pas lors de son defi initial~
 @20072 = ~Les armes de maitre sont affectees par la crise du fer~
-@20073 = ~Les armes de maitre sont immunisees a la crise du fer~ bg
+@20073 = ~Les armes de maitre sont immunisees a la crise du fer~
 @20074 = ~Retirer les sorts qui ne sont pas dans Baldur's Gate~
 @20076 = ~Standardisation des sorts entre Baldur's Gate et Baldur's Gate II~
 @20077 = ~Introduction des parchemins de sorts de Baldur's Gate II dans Baldur's Gate~
@@ -252,12 +252,12 @@
 @24120 = ~Inclure les sorts divins/druidiques d'Icewind Dale : Enhanced Edition~
 @24121 = ~Standardisation des sorts entre Icewind Dale et Baldur's Gate/Baldur's Gate II~
 @24122 = ~Ce composant est omis, car l'equivalent du composant est deja installe via le mod IWDification~
-@24123 = ~Sur les installations Enhanced Edition, SCS doit etre installe APRES le composant EET_end. Installez le composant EET_end, puis installez SCS.~
+@24123 = ~Sur les installations Enhanced Edition, SCS doit etre installe APRES le composant EET_end du mod EET. Installez le composant EET_end, puis installez SCS.~
 @24124 = ~SCS pour Baldur's Gate II necessite soit la version Enhanced Edition du jeu, soit le mod BG2 Fixpack (voir la documentation du mod pour savoir ou l'obtenir)~
 @24125 = ~Amelioration des ecrans de chapitre de l'extension "la Legende de l'Ile Perdue"~
 @24126 = ~Interaction de Carsa/Kahrk amelioree~
-@24127 = ~Utiliser les versions Baldur's Gate II des sorts Fleau d'insectes et Fatalite rampante a la place des versions Icewind Dale~
-@24128 = ~Utiliser la version Baldur's Gate II du sort Epee de Mordenkainen en plus de la version Icewind Dale~
+@24127 = ~Utiliser les versions Baldur's Gate II des sorts Fleau d'insectes et Fatalite rampante a la place des versions d'Icewind Dale~
+@24128 = ~Utiliser la version Baldur's Gate II du sort Epee de Mordenkainen en plus de la version d'Icewind Dale~
 @24129 = ~Modifier les fleches elementaires pour qu'elles fonctionnent comme dans Baldur's Gate II~
 @24130 = ~Inclure les chants de barde d'Icewind Dale : Enhanced Edition~
 
@@ -266,7 +266,7 @@
 @50002 = ~Ce composant a ete deplace ailleurs dans l'ordre d'installation, ce troncon obsolete evite de mettre le desordre lors d'une reinstallation.~
 @50003 = ~Deplacer ou modifier certains objets magiques trop puissants.~
 @50004 = ~Ce composant est desormais inclus dans le composant "Deplacer ou modifier certains objets magiques trop puissants". Utilisez le fichier stratagems.ini pour le desactiver si vous n'en voulez pas.~
-@50005 = ~Ce composant est desormais inclus dans le composant "Deplacer ou modifier certains objets magiques trop puissants", et est desactive par defaut. Utilisez le fichier stratagems.ini pour l'activer si le voulez.~
+@50005 = ~Ce composant est desormais inclus dans le composant "Deplacer ou modifier certains objets magiques trop puissants", et est desactive par defaut. Utilisez le fichier stratagems.ini pour l'activer si vous le voulez.~
 @50006 = ~Ce composant a ete deplace dans le mod Tweaks Anthology, disponible sur le site gibberlings3.net~
 @50007 = ~Ce composant n'est desormais plus supporte (utilisez plutot le composant equivalent du mod Tweaks Anthology a la place)~
 @50008 = ~Ce composant est uniquement destine a Icewind Dale: Enhanced Edition~
@@ -274,6 +274,6 @@
 @50010 = ~Ce composant n'est pas compatible avec le composant de Tweaks Anthology qui empeche les humains d'avoir acces a des classes jumelees~
 @50011 = ~Le mode batch est disponible uniquement pour les systemes d'exploitation Windows~
 @50012 = ~Ce composant est uniquement utilise en mode batch~
-@50013 = ~Ce composant est desormais inclus dans le composant "Stratagems spell tweaks"~
+@50013 = ~Ce composant est desormais inclus dans le composant "Composant principal des modifications du systeme de sort de Stratagems"~
 @50014 = ~Ce composant n'est pas compatible avec le composant "Revision et reequilibrage des specialisations" du mod Talents of Faerun~
 @50015 = ~Ce composant est omis, car l'equivalent du composant est deja installe via le mod Talents of Faerun~
