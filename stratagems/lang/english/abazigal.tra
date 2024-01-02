@@ -14,6 +14,7 @@
 @3009 = ~Ummm... yes, I do happen to have some rope here.~
 @3010 = ~There would be a charge, but looking at what you did to poor Zakee, I don't think I'll be levying it...~
 @3011 = ~I discovered one of Balthazar's followers imprisoned here. Before he died the monk explained how I can find and defeat Abazigal. I need to find the Scroll of Reversal to break the geas that both enslaves a dragon guardian and seals the entrance to Abazigal's inner enclave.
+
 The caverns here are all connected by underwater tunnels. Luckily I now have some more of the water breathing potion to allow me to explore the various tunnels. Like it or not, I guess I'm going spelunking... just as soon as I can get hold of a rope. It seems silly to have to trek back to Amkethran for something so mundane, but I guess I don't have a lot of choice... what else is new, though?~
 @3012 = ~Y'know, I never thought I'd feel sorry for a dragon, but the poor thing does look so miserable.~
 @3013 = ~Bah. My <PRO_BROTHERSISTER>, we have far more important business than bandying words with a depressed dragon!~
@@ -23,21 +24,47 @@ The caverns here are all connected by underwater tunnels. Luckily I now have som
 STATISTICS:
 
 Weight: 15~
+
 @3016 = ~Yellow Dragon Scale Armor~
+//@3017 vanilla format
 @3017 = ~Yellow Dragon Scale Armor
 
 This suit of armor is formed from interlocking Yellow Dragon scales. Yellow Dragons are known for their fiery sand attacks and resistance to piercing weapons.
+
 This particular suit was forged from the scales of the yellow dragon Anadramatis.
 
 STATISTICS:
 
-Bonuses: +50% Resistance to Piercing and Missile Attacks
+Bonuses: +50% Resistance to Piercing and Missile Damages
 Armor Class: -1
-Weight: 30
+Weight: 10
 Requires: 6 Strength
 Not Usable By:
- Mage~
+ Mage
+ Monk
+ Shapeshifter
+ Kensai~
+/*
+//@3017 EE format
+@? = ~This suit of armor is formed from interlocking Yellow Dragon scales. Yellow Dragons are known for their fiery sand attacks and resistance to piercing weapons.
+
+This particular suit was forged from the scales of the yellow dragon Anadramatis.
+
+STATISTICS:
+
+Equipped abilities:
+– Resistance to Missile Damage: +50%
+– Resistance to Piercing Damage: +50%
+
+Armor Class: -1 (2 vs. slashing, 1 vs. piercing and missile)
+Requires:
+ 6 Strength
+
+Weight: 10~
+*/
+
 @3018 = ~Anadramatis' Amulet~
+//@3019 vanilla format
 @3019 = ~Anadramatis' Amulet
 
 This fine golden necklace has been imbued by the dragon Anadramatis with his fury at the dragon Bhaalspawn Abazigal. Its wearer will be shielded in turn - to some extent - from the furious presence of a dragon.
@@ -47,6 +74,18 @@ STATISTICS:
 Special: Wearer is immune to wing buffets
 
 Weight: 1~
+/*
+//@3019 EE format
+@? = ~This fine golden necklace has been imbued by the dragon Anadramatis with his fury at the dragon Bhaalspawn Abazigal. Its wearer will be shielded in turn - to some extent - from the furious presence of a dragon.
+
+STATISTICS:
+
+Equipped abilities:
+– Wearer is immune to wing buffets
+
+Weight: 1~
+*/
+
 @3020 = ~You cannot gather the potion and fight a dragon at the same time.~
 @3021 = ~Olinissimous~
 @3022 = ~Zirimanat'ryl~

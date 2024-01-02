@@ -26,34 +26,60 @@ PARAMÈTRES :
 Poids : 15~
 
 @3016 = ~Armure d'écailles de dragon jaune~
+//@3017 vanilla format
 @3017 = ~Armure d'écailles de dragon jaune
 
 Cette armure est composée d'écailles de dragon jaune entrelacées. Celle-ci a été confectionnée à partir des écailles du dragon jaune Anadramatis. Les dragons jaunes sont connus pour leurs attaques de sable brûlant et leur résistance aux armes perforantes.
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
-- Résistance aux dégâts perforants et de projectiles : +50 %
-
+Bonus : +50% de résistance aux dégâts perforants et de projectiles
 Classe d'armure : -1
-Nécessite :
- 6 en Force
+Poids: 10
+Force nécessaire : 6
 Non utilisable par :
  Mage
+ Moine
+ Métamorphe
+ Kensai~
+/*
+//@3017 EE format
+@? = ~Cette armure est composée d'écailles de dragon jaune entrelacées. Celle-ci a été confectionnée à partir des écailles du dragon jaune Anadramatis. Les dragons jaunes sont connus pour leurs attaques de sable brûlant et leur résistance aux armes perforantes.
 
-Poids : 30~
- 
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Résistance aux dégâts perforants et de projectiles : +50 %
+
+Classe d'armure : -1 (2 contre les armes tranchantes, 1 contre les armes perforantes et les projectiles)
+Nécessite :
+ 6 en Force
+
+Poids : 10~
+*/
+
 @3018 = ~Amulette d'Anadramatis~
+//@3019 vanilla format
 @3019 = ~Amulette d'Anadramatis
 
-Ce beau collier doré a été imprégné de la fureur du dragon Anadramatis envers le dragon et enfant de Bhaal Abazigal. Son porteur sera protégé à son tour, dans une certaine mesure, de la fureur d'un dragon.
+Ce beau collier doré a été imprégné de la fureur du dragon Anadramatis envers le dragon et enfant de Bhaal Abazigal. Son porteur sera protégé à son tour, dans une certaine mesure, de la fureur des dragons.
 
 PARAMÈTRES :
 
-Capacités d'équipement :
-- Immunité aux coups d'ailes des dragons
+Spécial : Immunité aux coups d'ailes des dragons
 
 Poids : 1~
+/*
+//@3019 EE format
+@? = ~Ce beau collier doré a été imprégné de la fureur du dragon Anadramatis envers le dragon et enfant de Bhaal Abazigal. Son porteur sera protégé à son tour, dans une certaine mesure, de la fureur des dragons.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Immunité aux coups d'ailes des dragons
+
+Poids : 1~
+*/
 
 @3020 = ~*vous ne pouvez pas recueillir de la potion et combattre un dragon en même temps*~
 @3021 = ~Olinissimous~
