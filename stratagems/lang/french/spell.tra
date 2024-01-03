@@ -166,7 +166,7 @@ Ce sort confère une invulnérabilité totale contre toutes les armes, quel que 
 @14100 = ~ (Évocation)~
 @14101 = ~ (Invocation/Évocation)~
 @14102 = ~ (Conjuration/Convocation,Invocation/Évocation)~
-@14400 = ~ Enfin, le sort protège également le lanceur contre la cécité magique pendant 1 round après qu'il soit lancé.~
+@14400 = ~ Enfin, le sort protège également le lanceur contre la cécité magique pendant 1 round après qu'il est lancé.~
 @16010 = ~Cette flèche est enduite d'acide, de sorte que, si elle touche, elle perce la chair de la cible et, plutôt que d'en rester là, commence à forer et à agrandir la plaie.
 
 PARAMÈTRES :
