@@ -42,12 +42,12 @@ Lorsque le mot de pouvoir cécité est prononcé, la créature visée est aveugl
 CONTINGENCE
 Une fois qu'il a acquis la capacité de lancer des sorts de 6ème niveau, un mage peut lancer Contingence une fois par jour, désignant un sort d'un maximum de 1/3 du niveau du mage qui sera automatiquement lancé sur le mage si certaines conditions s'appliquent. Une seule Contingence peut être active à la fois.
 
-Une fois que le mage a acquis la capacité de lancer des sorts de 9ème niveau, <PRO_HESHE> peut également lancer la Chaîne de contingence, qui peut contenir trois sorts de 8ème niveau maximum, automatiquement lancée sur le mage ou une autre cible désignée si certaines conditions s'appliquent. Une seule Chaîne de contingence peut être active à la fois.
+Une fois que le mage a acquis la capacité de lancer des sorts de 9ème niveau, il peut également lancer la Chaîne de contingence, qui peut contenir trois sorts de 8ème niveau maximum, automatiquement lancée sur le mage ou une autre cible désignée si certaines conditions s'appliquent. Une seule Chaîne de contingence peut être active à la fois.
 
 SÉQUENCEUR DE SORTS
-Une fois qu'<PRO_HESHE> apprend à lancer des sorts de 4ème niveau, un mage peut créer un Séquenceur mineur, qui contient deux sorts de premier ou de deuxième niveau pouvant être lancés plus tard, en une capacité spéciale qui ne prend qu'un instant à indiquer. Le mage peut créer un nouveau Séquenceur mineur une fois par jour, mais un seul peut être actif à la fois.
+Une fois qu'il apprend à lancer des sorts de 4ème niveau, un mage peut créer un Séquenceur mineur, qui contient deux sorts de premier ou de deuxième niveau pouvant être lancés plus tard, en une capacité spéciale qui ne prend qu'un instant à indiquer. Le mage peut créer un nouveau Séquenceur mineur une fois par jour, mais un seul peut être actif à la fois.
 
-En apprenant à lancer des sorts de 7ème niveau, un mage peut également créer un Séquenceur de sorts, qui contient trois sorts de niveaux 1 à 4. Une fois qu'<PRO_HESHE> apprend à lancer des sorts de 8ème niveau, <PRO_HESHE> peut créer un Déclencheur de sort, contenant trois sorts de niveaux 1 à 6.
+En apprenant à lancer des sorts de 7ème niveau, un mage peut également créer un Séquenceur de sorts, qui contient trois sorts de niveaux 1 à 4. Une fois qu'il apprend à lancer des sorts de 8ème niveau, il peut créer un Déclencheur de sort, contenant trois sorts de niveaux 1 à 6.
 ~
 
 @1001 = ~
@@ -56,12 +56,12 @@ CONTINGENCE
 Une fois qu'il a acquis la capacité de lancer des sorts de 6ème niveau, un barde peut lancer Contingence une fois par jour, désignant un sort d'un maximum de 1/3 du niveau du barde qui sera automatiquement lancé sur le barde si certaines conditions s'appliquent. Une seule Contingence peut être active à la fois.
 
 SÉQUENCEUR DE SORTS
-Une fois qu'<PRO_HESHE> apprend à lancer des sorts de 4ème niveau, un barde peut créer un Séquenceur mineur, qui contient deux sorts de premier ou de deuxième niveau pouvant être lancés plus tard, en une capacité spéciale qui ne prend qu'un instant à indiquer. Le barde peut créer un nouveau Séquenceur mineur une fois par jour, mais un seul peut être actif à la fois.
+Une fois qu'il apprend à lancer des sorts de 4ème niveau, un barde peut créer un Séquenceur mineur, qui contient deux sorts de premier ou de deuxième niveau pouvant être lancés plus tard, en une capacité spéciale qui ne prend qu'un instant à indiquer. Le barde peut créer un nouveau Séquenceur mineur une fois par jour, mais un seul peut être actif à la fois.
 ~
 
 @1002 = ~
 En apprenant à lancer des sorts de 7ème niveau, un barde peut également créer un Séquenceur de sorts, qui contient trois sorts de niveaux 1 à 4.~
-@1003 = ~ Une fois qu'<PRO_HESHE> apprend à lancer des sorts de 8ème niveau, un barde peut créer un Déclencheur de sort, contenant trois sorts de niveaux 1 à 6.~
+@1003 = ~ Une fois qu'il apprend à lancer des sorts de 8ème niveau, un barde peut créer un Déclencheur de sort, contenant trois sorts de niveaux 1 à 6.~
 @1004 = ~Préparation~
 @1005 = ~Obtention de capacités spéciales~
 
