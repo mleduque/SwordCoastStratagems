@@ -26,7 +26,7 @@ STATISTICS:
 Weight: 15~
 
 @3016 = ~Yellow Dragon Scale Armor~
-//@3017 vanilla format
+//@3016 vanilla format
 @3017 = ~Yellow Dragon Scale Armor
 
 This suit of armor is formed from interlocking Yellow Dragon scales. Yellow Dragons are known for their fiery sand attacks and resistance to piercing weapons.
@@ -41,11 +41,12 @@ Weight: 10
 Requires: 6 Strength
 Not Usable By:
  Mage
+ Sorcerer
  Monk
  Shapeshifter
  Kensai~
 /*
-//@3017 EE format
+//@3016 EE format
 @? = ~This suit of armor is formed from interlocking Yellow Dragon scales. Yellow Dragons are known for their fiery sand attacks and resistance to piercing weapons.
 
 This particular suit was forged from the scales of the yellow dragon Anadramatis.
@@ -64,7 +65,7 @@ Weight: 10~
 */
 
 @3018 = ~Anadramatis' Amulet~
-//@3019 vanilla format
+//@3018 vanilla format
 @3019 = ~Anadramatis' Amulet
 
 This fine golden necklace has been imbued by the dragon Anadramatis with his fury at the dragon Bhaalspawn Abazigal. Its wearer will be shielded in turn - to some extent - from the furious presence of a dragon.
@@ -75,7 +76,7 @@ Special: Wearer is immune to wing buffets
 
 Weight: 1~
 /*
-//@3019 EE format
+//@3018 EE format
 @? = ~This fine golden necklace has been imbued by the dragon Anadramatis with his fury at the dragon Bhaalspawn Abazigal. Its wearer will be shielded in turn - to some extent - from the furious presence of a dragon.
 
 STATISTICS:

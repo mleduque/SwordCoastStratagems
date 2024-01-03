@@ -26,7 +26,7 @@ PARAMÈTRES :
 Poids : 15~
 
 @3016 = ~Armure d'écailles de dragon jaune~
-//@3017 vanilla format
+//@3016 vanilla format
 @3017 = ~Armure d'écailles de dragon jaune
 
 Cette armure est composée d'écailles de dragon jaune entrelacées. Celle-ci a été confectionnée à partir des écailles du dragon jaune Anadramatis. Les dragons jaunes sont connus pour leurs attaques de sable brûlant et leur résistance aux armes perforantes.
@@ -39,11 +39,12 @@ Poids: 10
 Force nécessaire : 6
 Non utilisable par :
  Mage
+ Sorcier
  Moine
  Métamorphe
  Kensai~
 /*
-//@3017 EE format
+//@3016 EE format
 @? = ~Cette armure est composée d'écailles de dragon jaune entrelacées. Celle-ci a été confectionnée à partir des écailles du dragon jaune Anadramatis. Les dragons jaunes sont connus pour leurs attaques de sable brûlant et leur résistance aux armes perforantes.
 
 PARAMÈTRES :
@@ -59,7 +60,7 @@ Poids : 10~
 */
 
 @3018 = ~Amulette d'Anadramatis~
-//@3019 vanilla format
+//@3018 vanilla format
 @3019 = ~Amulette d'Anadramatis
 
 Ce beau collier doré a été imprégné de la fureur du dragon Anadramatis envers le dragon et enfant de Bhaal Abazigal. Son porteur sera protégé à son tour, dans une certaine mesure, de la fureur des dragons.
@@ -70,7 +71,7 @@ Spécial : Immunité aux coups d'ailes des dragons
 
 Poids : 1~
 /*
-//@3019 EE format
+//@3018 EE format
 @? = ~Ce beau collier doré a été imprégné de la fureur du dragon Anadramatis envers le dragon et enfant de Bhaal Abazigal. Son porteur sera protégé à son tour, dans une certaine mesure, de la fureur des dragons.
 
 PARAMÈTRES :
