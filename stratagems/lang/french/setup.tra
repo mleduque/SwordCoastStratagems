@@ -178,11 +178,11 @@
 @3398 = ~Oeil Aveugle ameliore~
 @3399 = ~Ce composant requiert le composant "Spectateurs plus intelligents"~
 @3400 = ~Modifier les sorts de type Sequenceur de sorts et Contingence en capacites speciales~
-@3401 = ~Revision des effets de mort comme la desintegration, la petrification et l'emprisonnement (les membres du groupe qui sont desintegres, etc. peuvent etre ressuscites, les personnages emprisonnes ou petrifies rejoignent automatiquement le groupe, le jeu ne prend pas fin si le personnage principal est petrifie ou emprisonne).~
+@3401 = ~Revision des effets de mort comme la desintegration, la petrification et l'emprisonnement (les membres du groupe qui sont desintegres, etc. peuvent etre ressuscites, les personnages emprisonnes ou petrifies rejoignent automatiquement le groupe, le jeu ne prend pas fin si le personnage principal est petrifie ou emprisonne)~
 @3402 = ~Revision du repos : se reposer en exterieur consomme des provisions~
 
-@3403 = ~Revision des chambres d'auberges : plus le prix est important, plus il y a d'avantages.~
-@10005 = ~Installer en utilisant le mode batch (demande pour chaque composant avant de commencer l'installation). NE PAS UTILISER AVEC LE PROJECT INFINITY.~
+@3403 = ~Revision des chambres d'auberges : plus le prix est important, plus il y a d'avantages~
+@10005 = ~Installer en utilisant le mode batch (demande pour chaque composant avant de commencer l'installation). NE PAS UTILISER AVEC LE PROJECT INFINITY~
 
 @10028 = ~Terminer l'installation en mode batch~
 @10029 = "Installer les composants selectionnes en mode batch"
@@ -264,7 +264,7 @@
 @50000 = ~Ce composant est desormais obsolete~
 @50001 = ~Ce composant est desormais inclus dans le composant principal "Initialisation des composants de l'IA". Utilisez le fichier stratagems.ini pour le desactiver si vous n'en voulez pas.~
 @50002 = ~Ce composant a ete deplace ailleurs dans l'ordre d'installation, ce troncon obsolete evite de mettre le desordre lors d'une reinstallation.~
-@50003 = ~Deplacer ou modifier certains objets magiques trop puissants.~
+@50003 = ~Deplacer ou modifier certains objets magiques trop puissants~
 @50004 = ~Ce composant est desormais inclus dans le composant "Deplacer ou modifier certains objets magiques trop puissants". Utilisez le fichier stratagems.ini pour le desactiver si vous n'en voulez pas.~
 @50005 = ~Ce composant est desormais inclus dans le composant "Deplacer ou modifier certains objets magiques trop puissants", et est desactive par defaut. Utilisez le fichier stratagems.ini pour l'activer si vous le voulez.~
 @50006 = ~Ce composant a ete deplace dans le mod Tweaks Anthology, disponible sur le site gibberlings3.net~
