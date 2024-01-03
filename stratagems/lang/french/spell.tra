@@ -74,7 +74,7 @@ Les sorts de protection de combat dissipés par Brèche sont~
 @1021 = ~d~
 @1100 = ~Il annule toute absorption de vie ou de niveau subie à la suite d'une attaque par un monstre, par exemple.~ // NOTE TO TRANSLATORS: must be exact string from description of 'Lesser Restoration' spell
 @1101 = ~, annulant ainsi les effets de toute absorption d'énergie précédemment effectuée par une force quelconque ou un monstre.~ // NOTE TO TRANSLATORS: must be exact string from description of 'Greater Restoration' spell
-@1102 = ~, annulant ainsi les effets de toute absorption d'énergie précédemment effectuée par une force quelconque ou un monstre, et restaure toute perte de points de statistiques, comme par exemple l'absorption de force par une attaque d'ombre ou d'intelligence par un flagelleur mental.~
+@1102 = ~, annulant ainsi les effets de toute absorption d'énergie précédemment effectuée par une force quelconque ou un monstre, et restaure toute perte de points de statistiques, par exemple l'absorption de force par une attaque d'ombre ou d'intelligence par un flagelleur mental.~
 
 
 @3700 = ~
