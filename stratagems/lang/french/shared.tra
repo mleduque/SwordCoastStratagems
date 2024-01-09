@@ -23,7 +23,7 @@
 @101042 = ~Boit une potion de régénération~
 @101045 = ~Boit une potion de liberté~
 @101052 = ~Boit une potion de grands soins~
-@101055 = ~Boit une potion de soin majeur~
+@101055 = ~Boit une potion de soins supérieurs~
 @100200 = ~Utilise une baguette~
 @100201 = ~Lit un parchemin~
 @100300 = ~ (lancé précédemment)~
@@ -33,7 +33,7 @@
 @100403 = ~IA désactivée~
 @100404 = ~  
 
-Cette créature peut utiliser ce pouvoir une fois toutes les 99999 secondes.~
+Cette créature peut utiliser ce pouvoir une fois toutes les 99 999 secondes.~
 @100405 = ~
 
 Cette créature peut utiliser ce pouvoir à sa guise.~

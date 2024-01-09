@@ -3,7 +3,7 @@
 (Evocation)
 
 Level: 9
-Range:0
+Range: 0
 Duration: Instant
 Casting Time: 9
 Area of Effect: Enemies within 30ft
@@ -15,7 +15,7 @@ Upon casting this spell, the wizard directs a powerful blast of electricity towa
 @4="Minor Lightning Bolt
 (Evocation)
 
-Level:2
+Level: 2
 Range: Visual range of the caster
 Duration: Instant
 Casting Time: 2
@@ -44,11 +44,11 @@ When this spell is cast, the caster calls up a small Earth Elemental and merges 
 STATISTICS:
 
 Equipped abilities:
-â€“ +2 to Armor Class
+– Armor Class: +2
 
 THAC0: Hits automatically
 Damage: 1d6 + 1d6 per two levels (maximum 6d6)
-Damage type: Missile
+Damage type: crushing
 Speed Factor: 0
 Special: the spell ends once you make an attack
 
@@ -87,7 +87,7 @@ Range: visual range of caster
 Duration: instant
 Casting Time: 3
 Area of Effect: 60ft. line
-Saving Throw: spc.
+Saving Throw: Special
 
 A blue-white ray of freezing air and ice springs from the caster's hand. The ray inflicts 1d8 points of cold damage per level of the caster to any creature caught in the ray, and freezes the creature in place for one round. A successful save vs. spell at a -2 penalty halves the damage and negates the freezing effect."
 @15="Frozen in place"
@@ -148,7 +148,6 @@ Saving Throw: Neg.
 
 By means of this spell, the caster can telekinetically hurl all hostile creatures within a small region directly away from <PRO_HIMHER>self at high speed, inflicting 3d8 points of crushing damage and knocking the creatures unconscious for a few seconds, unless they save vs. spells at a -2 penalty. The spell is ineffective against any creature of ogre size or larger, and - due to the interaction of the telekinetic field with surrounding solid matter - cannot be used to propel creatures off cliffs or into impassable terrain."
 
-
 @50="Create Boneguard"
 @51="Create Boneguard
 (Necromancy)
@@ -159,6 +158,7 @@ Duration: 8 rounds + 1 round/level
 Casting Time: 9
 Area of Effect: Special
 Saving Throw: None
+
 With the casting of this spell, the wizard calls forth 1d2 boneguards. These undead monstrosities appear within spell range and can be commanded to attack the caster's opponents until the spell duration expires or the monsters are destoyed."
 @52="Boneguard"
 
