@@ -303,6 +303,34 @@ Lorsque le mot de pouvoir cécité est prononcé, la créature visée est aveugl
 @501 = ~qu'un adversaire s'en approche suffisamment~
 @502 = ~tous ceux situés dans sa zone d'effet~
 @503 = ~tous les ennemis situés dans sa zone d'effet~
+
+@504="Ce sort tue instantan[^m]+ment toutes les cr[^a]+atures convoqu[^e]+es, quels que soient leurs d[^s]+s de vie ou leurs immunit[^s]+s."  // must be verbatim from BG2 description of Death Fog - bg2ee @7622 / bg1ee @26576 / obg2 @7622
+@505="Les cr[^a]+atures disposant de plus de 8[^d]+d[^s]+s de vie sont immunis[^e]+es contre ce sort, [^ ]+ l'exception de celles ayant [^t]+t[^ ]+ invoqu[^e]+es qui sont, elles, imm[^d]+diatement tu[^e]+es." // must be verbatim from BG2 description of Death Spell - bg2ee @7918 / bg1ee @26563 / obg2 @7918 (space instead of nbsp)
+@506="Les créatures disposant de plus de 8 dés de vie sont immunisées contre ce sort."
+
+@600="Yuan-ti majeur" // bg2ee @1385
+@601="Yuan-ti d'élite" // bg2ee @72137
+
+
+
+@620="Ce sort fait appara[^t]+tre 1d6 monstres de niveau 2." // must be verbatim from IWD description of MS2 - iwdee @12157
+@621="Ce sort fait apparaître 2d3 monstres de niveau 3."
+
+@630="Ce sort fait apparaî[^t]+tre 1d4 monstres de niveau 3." // must be verbatim from IWD description of MS3 - @12158
+@631="Ce sort fait apparaître 2d3 monstres de niveau 4 ou 5."
+
+@640="Ce sort fait appara[^t]+tre 1d3 monstres de niveau 4." // must be verbatim from IWD description of MS4 - @16165
+@641="Ce sort fait apparaître 2d3 monstres de niveau 6."
+
+@650="Ce sort fait appara[^t]+tre 1d3 monstres de niveau 5." //must be verbatim from IWD description of MS5 - @16170
+@651="Ce sort fait apparaître 2d3 monstres de niveau 7 ou 8."
+
+@660="Ce sort fait appara[^t]+tre 1d3 monstres de niveau 6." // must be verbatim from IWD description of MS6 - @16358
+@661="Ce sort fait apparaître 2d3 monstres de niveau 9 ou 10."
+
+@670="Ce sort fait appara[^t]+tre 1d2 monstres de niveau 7 ou 8." // must be verbatim from IWD description of MS7
+@671="Ce sort fait apparaître 2d3 monstres de niveau 11 ou 12."
+
 @1000 = ~
 
 CONTINGENCE
