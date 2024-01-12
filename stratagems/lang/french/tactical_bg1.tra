@@ -102,7 +102,7 @@ J'ai réussi à obtenir la jarre de Carsa et à vaincre Kahrk, le puissant orge-
 @21401 = ~Tiens, tiens, regardez ce que nous avons là...~
 @21402 = ~Tazok m'a dit que je devais garder un œil sur vous, de voir si vous n'étiez pas en train de mijoter un mauvais coup. Je dirais que le fait de vous surprendre en train de fureter dans sa tente tend à le prouver, hein ?~
 @21403 = ~Attendez ! Ce n'est pas ce que vous pensez.~
-@21404 = ~Voilà ce que j'en pense. Je pense que vous êtes ces bienfaiteurs de Nashkel, celles et ceux qui ont tué Mulahey et arrêté le gâchage du fer. Je pense que vous êtes ici pour faire mettre fin à la crise du fer, et que vous venez de tuer les gros bonnets du Trône dans la tente de Tazok.~
+@21404 = ~Voilà ce que j'en pense. Je pense que vous êtes ces bienfaiteurs de Nashkel, celles et ceux qui ont tué Mulahey et arrêté le gâchage du fer. Je pense que vous êtes ici pour mettre fin à la crise du fer, et que vous venez de tuer les gros bonnets du Trône dans la tente de Tazok.~
 @21405 = ~D'accord, c'est bien ce que vous pensiez alors. Mais vous n'abattrez pas <CHARNAME> sans combattre !~
 @21406 = ~<CHARNAME>, hein ? À moi, les gars ! La tête de celui-ci est mise à prix, un prix suffisamment élevé pour que tout le monde puisse avoir sa part du gâteau !~ ~<CHARNAME>, hein ? À moi, les gars ! La tête de celle-ci est mise à prix, un prix suffisamment élevé pour que tout le monde puisse avoir sa part du gâteau !~
 @21407 = ~Mensonges, calomnies ! Nous sommes vos amis, venez dans la tente et nous vous expliquerons tout.~
@@ -121,7 +121,7 @@ Bien que votre prix soit élevé, je suis prêt à le payer. Vous l'aurez bien m
 Si vous pouvez me ramener la tête de <CHARNAME>, les dix mille pièces d'or sont vôtres. Et bien plus encore, peut-être. Comme vous le savez, je suis destiné à de grandes choses, et je me souviendrai de ceux qui m'ont aidé pendant ma vie de mortel.
 
 S.~
-@21502 = ~Petits êtres rosâtres, vous allez tous mourir. Le Fils du Meurtre offre 10 000 pièces d'or pour la tête de <CHARNAME>. Nous allons donc la lui couper.~
+@21502 = ~Petits êtres rosâtres, vous allez tous mourir. Le Fils du Meurtre offre 10 000 pièces d'or pour la tête de <CHARNAME>. Nous allons donc la lui prendre.~
 @21503 = ~Ces attaques ne cessent de devenir de plus en plus féroces. Cette fois-ci, il s'agissait de cinq ogres-mages ! Et la récompense qu'ils cherchaient à obtenir, offerte par quelqu'un se faisant appeler le « Fils du Meurtre », rien que ça, était absolument énorme. J'espère seulement qu'une fois à Château-Suif, je pourrai enfin trouver des réponses m'expliquant pourquoi tout cela m'arrive.~
 @21901 = ~Shennara~
 @21902 = ~Kaalos~
@@ -130,4 +130,4 @@ S.~
 @21905 = ~Ceux qui nous ont précédés étaient des ignares, comme vous. Ceux qui nous ont précédés étaient des faibles, comme vous. Ceux qui nous ont précédés n'étaient pas Zhalimar, ni Gardush, ni Naaman, ni Diyab, ni Shennara, ni Kaalos, ni Aasim ou encore Alaï. Ceux qui nous ont précédés sont morts, tout comme vous le serez bientôt. C'est ce qui a été décrété, et c'est ce qui sera fait. C'est Sarevok qui l'exige !~
 @21906 = ~Je regrette de raviver des souvenirs aussi douloureux. Je voudrais vous aider et, ce faisant, en finir avec ces rêves qui me hantent. Tenez, prenez ceci. Lorsque vous combattrez contre les huit crapules qui sont au service du meurtrier de votre père, lisez ce parchemin, il vous protégera de leur courroux. À présent, au revoir, peut-être nous reverrons-nous un jour.~
 @22506 = ~Vous avez peut-être nettoyé le Pont de Flammevin, mais il y a plus d'un ogre-mage sur la Côte des Épées qui peut dire pourquoi Jenkal est important !~
-@22507 = ~*un peu plus loin, ce court et étroit corridor a été bloqué par une lourde porte de fer barrée de l'autre côté... vous allez devoir trouver un autre chemin*~
+@22507 = ~*ce court et étroit corridor a été bloqué un peu plus loin par une lourde porte de fer barrée de l'autre côté... vous allez devoir trouver un autre chemin*~
