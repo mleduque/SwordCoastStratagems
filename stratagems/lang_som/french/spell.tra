@@ -39,7 +39,7 @@ Lorsque le mot de pouvoir cécité est prononcé, la créature visée est aveugl
 @503 = ~tous les ennemis situés dans sa zone d'effet~
 
 @504="Ce sort tue instantan[^m]+ment toutes les cr[^a]+atures convoqu[^e]+es, quels que soient leurs d[^s]+s de vie ou leurs immunit[^s]+s."  // must be verbatim from BG2 description of Death Fog - bg2ee @7622 / bg1ee @26576 / obg2 @7622
-@505="Les cr[^a]+atures disposant de plus de 8[^d]+d[^s]+s de vie sont immunis[^e]+es contre ce sort, [^ ]+ l'exception de celles ayant [^t]+t[^ ]+ invoqu[^e]+es qui sont, elles, imm[^d]+diatement tu[^e]+es." // must be verbatim from BG2 description of Death Spell - bg2ee @7918 / bg1ee @26563 / obg2 @7918 (space instead of nbsp)
+@505=" Les cr[^a]+atures disposant de plus de 8[^d]+d[^s]+s de vie sont immunis[^e]+es contre ce sort, [^ ]+ l'exception de celles ayant [^ ]+ invoqu[^e]+es qui sont, elles, imm[^d]+diatement tu[^e]+es." // must be verbatim from BG2 description of Death Spell - bg2ee @7918 / bg1ee @26563 / obg2 @7918 (space instead of nbsp)
 @506="Les créatures disposant de plus de 8 dés de vie sont immunisées contre ce sort."
 
 @600="Yuan-ti majeur" // bg2ee @1385
