@@ -46,6 +46,8 @@
 @130="Peut apprendre les sorts suivants en tant que sorts divins/druidiques :"
 @131="Apprend automatiquement les sorts suivants :"
 @132="Ajoute les sorts suivants à son livre de sorts profanes :"
+@499="Points restants"
+@500="Vous pouvez choisir des capacités pour votre personnage dans cette liste." 
 
 @900="Sph[^r]+re[^:]*:"
 @901="Peut apprendre les sorts divins/druidiques de ces sphères : "
@@ -71,7 +73,7 @@
 @959="SFO_NOT_IN_USE_WURBLE"
 
 
-@100010="Un sort suppl[^m]+mentaire par niveau d'exp[^r]+rience.\|Un sort suppl[^m]+mentaire par niveau." // must be, verbatim, the string used in the description of specialists (e.g., BG2EE string 9564).
+@100010="Un sort suppl[^m]+mentaire par niveau d'exp[^r]+rience\.\|Un sort suppl[^m]+mentaire par niveau\." // must be, verbatim, the string used in the description of specialists (e.g., BG2EE string 9564).
 @100011="(excepté aux niveaux LEVEL_PLACEHOLDER, pour lesquels il n'y a pas de sort de cette école)" // do not translate LEVEL_PLACEHOLDER
 @100012="Un sort supplémentaire par niveau d'expérience. Ce sort supplémentaire doit être de l'école SCHOOL_PLACEHOLDER" // do not translate SCHOOL_PLACEHOLDER
 @100013="Un sort supplémentaire par niveau d'expérience. Au moins NUMBER_PLACEHOLDER sorts mémorisés de chaque niveau doivent être de l'école SCHOOL_PLACEHOLDER" // do not translate SPEC_SPELL_PLACEHOLDER and NUMBER_PLACEHOLDER

@@ -1,4 +1,4 @@
-Note that SCS has tra files in several places. Most of them are in stratagems\lang and stratagems\lang_som, but there is also one in stratagems\sfo2e\lua\lang and one in stratagems\iwdspells\lang.
+Note that SCS has tra files in several places. Most of them are in stratagems\lang and stratagems\lang_som, but there is also two in stratagems\sfo2e\lua\lang and one in stratagems\iwdspells\lang.
 
 Translating SCS item description files
 
