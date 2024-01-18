@@ -26,48 +26,48 @@ Jet de sauvegarde : 1/2
 
 Le sort Appel de la foudre doit être lancé à l'extérieur, sinon il reste sans effet et le sort est perdu. Il permet au lanceur de faire tomber du ciel un éclair par round pour chaque niveau d'expérience du lanceur (jusqu'à un maximum de 11 rounds/éclairs). Chaque éclair inflige 2d8 points de dégâts électriques, plus 1d8 points de dégâts électriques supplémentaires par niveau d'expérience du lanceur. Ainsi, un lanceur de niveau 5 fera tomber cinq éclairs de 7d8 (2d8 +5d8) points de dégâts électriques chacun. La première créature frappée par la foudre sera la cible désignée lors de l'incantation. Ensuite, n'importe quel ennemi (mais pas les alliés) sera susceptible d'être frappé par les éclairs suivants. Un jet de sauvegarde contre les sorts réussi permet de diviser par deux les dégâts subis."
 
-@3="Duration:" // must exactly match duration in BG version of 'protection from fire'
-@4="1 turn/level"
-@5="The effects of a Protection From Fire spell last no longer than 3 rounds plus 1 round per level of the caster." // must exactly match first sentence of BG version of 'protection from fire'.
+@3="Dur[^e]+e[^:]*:" // must exactly match duration in BG version of 'protection from fire'
+@4="1 tour par niveau"
+@5="(Les effets de ce sort ne peuvent durer que 3 rounds \+ 1 round par niveau du lanceur\.)\|(Les effets de ce sort ne peuvent durer que 3 rounds \+ 1 round par niveau d'exp[^r]+rience du lanceur et ne sont pas cumulables\.)" // must exactly match first sentence of BG version of 'protection from fire'.
 
-@6="Slay Living
-(Necromancy)
+@6="Mise à mort
+(Nécromancie)
 
-Level: 5
-Sphere: Combat
-Range: Touch
-Duration: Instant
-Casting Time: 9
-Area of Effect: 1 creature
-Saving Throw: Special
+Niveau : 5
+Sphère : combat
+Portée : contact
+Durée : instantanée
+Temps d'incantation : 9
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
 
-This spell forces the target to Save vs. Death or be instantly killed. If the Saving Throw is successful, the target takes 2d6+9 points of magic damage instead. Note that a character struck with a Slay Living spell can still be raised from the dead with a Raise Dead or Resurrection spell."
+Ce sort oblige la cible à réussir un jet de sauvegarde contre la mort sinon elle sera tuée instantanément. Si le jet de sauvegarde contre la mort est réussi, alors la cible subit 2d6 +9 points de dégâts magiques. Notez qu'un personnage frappé par le sort Mise à mort peut toujours être ressuscité avec les sorts Rappel à la vie ou Résurrection."
 
-@7="Blade Barrier
-(Evocation)
+@7="Barrière de lames
+(Évocation)
 
-Level: 6 
-Sphere: Guardian, Creation
-Range: 0
-Duration: 1 turn
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: 1/2
+Niveau : 6 
+Sphère : garde, création
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 9
+Zone d'effet : spéciale
+Jet de sauvegarde : 1/2
 
-The priest employs this spell to set up a wall of circling, razor-sharp blades. These whirl and flash around the caster, creating an impenetrable barrier. Any creature attempting to pass through the Blade Barrier suffers 8d8 points of damage, with a saving throw vs. spell for half damage. The barrier remains for 1 turn."
+Ce sort permet au lanceur d'ériger un mur de lames tournoyantes, acérées comme des rasoirs. Elles scintillent et virevoltent à grande vitesse autour du lanceur, créant ainsi une barrière impénétrable qui se déplace avec lui. Toute créature tentant de traverser la Barrière de lames reçoit 8d8 points de dégâts tranchants à chaque round passé dans la zone d'effet de cette dernière. Les créatures se trouvant dans la zone d'effet de la Barrière de lames peuvent tenter un jet de sauvegarde contre les sorts. S'il est réussi, alors seulement la moitié des dégâts sont infligés pour ce round. La Barrière de lames reste en place pendant 1 tour. Les sorts Barrière de lames et Sphère de lames sont cumulables."
 
-@8="Globe of Blades
-(Evocation)
+@8="Sphère de lames
+(Évocation)
 
-Level: Quest
-Sphere: Guardian, Creation 
-Range: Caster
-Duration: 1 turn
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: 1/2
+Niveau : quête
+Sphère : garde, création
+Portée : 0
+Durée : 1 tour
+Temps d'incantation : 9
+Zone d'effet : spéciale
+Jet de sauvegarde : 1/2
 
-The priest employs this spell to set up a globe of razor-sharp blades. These whirl and flash around the caster, creating a dangerous barrier. Any creature attempting to pass through the blade barrier suffers 10d10 points of damage, or half that if they succeed at a Saving Throw vs. Spell at -2. The barrier remains for 1 turn."
+Ce sort permet au lanceur d'ériger un mur de lames tournoyantes, acérées comme des rasoirs. Elles scintillent et virevoltent à grande vitesse autour du lanceur, créant ainsi une barrière impénétrable qui se déplace avec lui. Toute créature tentant de traverser la Sphère de lames reçoit 10d10 points de dégâts tranchants à chaque round passé dans la zone d'effet de cette dernière. Les créatures se trouvant dans la zone d'effet de la Sphère de lames peuvent tenter un jet de sauvegarde contre les sorts à -2. S'il est réussi, alors seulement la moitié des dégâts sont infligés pour ce round. La Sphère de lames reste en place pendant 1 tour. Les sorts Barrière de lames et Sphère de lames sont cumulables."
 
 // @9 is a verbatim copy of IWD's description
 @9="Sol's Searing Orb
@@ -304,9 +304,9 @@ Lorsque le mot de pouvoir cécité est prononcé, la créature visée est aveugl
 @502 = ~tous ceux situés dans sa zone d'effet~
 @503 = ~tous les ennemis situés dans sa zone d'effet~
 
-@504="(Ce sort tue instantan[^m]+ment toutes les cr[^a]+atures convoqu[^e]+es, quels que soient leurs d[^s]+s de vie ou leurs immunit[^s]+s\.)|(De plus, ce sort tue instantan[^m]+ment toutes les cr[^a]+atures convoqu[^e]+es pr[^s]+sentes dans la zone d'effet, quels que soient leurs d[^s]+s de vie ou leurs [^v]+ventuelles immunit[^s]+s \(hormis les d[^m]+mons, d[^v]+vas, plan[^t]+taires et quelques autres cr[^a]+atures invoqu[^e]+es de haut niveau\)\.)"  // must be verbatim from BG2 description of Death Fog - correctfrbg2ee - bg2ee - obg2 @7622 / correctfrbg1ee - bg1ee @26576
+@504="(Ce sort tue instantan[^m]+ment toutes les cr[^a]+atures convoqu[^e]+es, quels que soient leurs d[^s]+s de vie ou leurs immunit[^s]+s\.)\|(De plus, ce sort tue instantan[^m]+ment toutes les cr[^a]+atures convoqu[^e]+es pr[^s]+sentes dans la zone d'effet, quels que soient leurs d[^s]+s de vie ou leurs [^v]+ventuelles immunit[^s]+s \(hormis les d[^m]+mons, d[^v]+vas, plan[^t]+taires et quelques autres cr[^a]+atures invoqu[^e]+es de haut niveau\)\.)"  // must be verbatim from BG2 description of Death Fog - correctfrbg2ee - bg2ee - obg2 @7622 / correctfrbg1ee - bg1ee @26576
 
-@505="(Les cr[^a]+atures disposant de plus de 8 d[^s]+s de vie sont immunis[^e]+es contre ce sort, [^ ]+ l'exception de celles ayant [^t]+t[^ ]+s invoqu[^e]+es qui sont, elles, imm[^d]+diatement tu[^e]+es\.)|(Les cr[^a]+atures disposant de plus de 8[^d]+d[^s]+s de vie sont immunis[^e]+es contre ce sort, [^ ]+ l'exception de celles ayant [^t]+t[^ ] invoqu[^e]+es qui sont, elles, imm[^d]+diatement tu[^e]+es\.)|(Les cr[^a]+atures disposant de plus de 8[^d]+d[^s]+s de vie sont immunis[^e]+es contre ce sort, [^ ]+ l'exception des cr[^a]+atures ayant [^t]+t[^ ]+ invoqu[^e]+es qui sont, elles, imm[^d]+diatement tu[^e]+es \(hormis les d[^m]+mons, d[^v]+vas, plan[^t]+taires et quelques autres cr[^a]+atures invoqu[^e]+es de haut niveau\)\.)" // must be verbatim from BG2 description of Death Spell - correctfrbg2ee - bg2ee - obg2 (space instead of nbsp) @7918 / correctfrbg1ee - bg1ee @26563
+@505="(Les cr[^a]+atures disposant de plus de 8 d[^s]+s de vie sont immunis[^e]+es contre ce sort, [^ ]+ l'exception de celles ayant [^t]+t[^ ]+s invoqu[^e]+es qui sont, elles, imm[^d]+diatement tu[^e]+es\.)\|(Les cr[^a]+atures disposant de plus de 8[^d]+d[^s]+s de vie sont immunis[^e]+es contre ce sort, [^ ]+ l'exception de celles ayant [^t]+t[^ ] invoqu[^e]+es qui sont, elles, imm[^d]+diatement tu[^e]+es\.)\|(Les cr[^a]+atures disposant de plus de 8[^d]+d[^s]+s de vie sont immunis[^e]+es contre ce sort, [^ ]+ l'exception des cr[^a]+atures ayant [^t]+t[^ ]+ invoqu[^e]+es qui sont, elles, imm[^d]+diatement tu[^e]+es \(hormis les d[^m]+mons, d[^v]+vas, plan[^t]+taires et quelques autres cr[^a]+atures invoqu[^e]+es de haut niveau\)\.)" // must be verbatim from BG2 description of Death Spell - correctfrbg2ee - bg2ee - obg2 (space instead of nbsp) @7918 / correctfrbg1ee - bg1ee @26563
 @506="Les créatures disposant de plus de 8 dés de vie sont immunisées contre ce sort."
 
 @600="Yuan-ti majeur" // bg2ee @1385

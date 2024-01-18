@@ -6,7 +6,7 @@ Level: 1
 Sphere: Combat
 Range: Visual range of the caster
 Duration: Instant
-Casting Time: 4 
+Casting Time: 4
 Area of Effect: 1 creature
 Saving Throw: None
 
@@ -46,7 +46,7 @@ This spell forces the target to Save vs. Death or be instantly killed. If the Sa
 @7="Blade Barrier
 (Evocation)
 
-Level: 6 
+Level: 6
 Sphere: Guardian, Creation
 Range: 0
 Duration: 1 turn
@@ -60,8 +60,8 @@ The priest employs this spell to set up a wall of circling, razor-sharp blades. 
 (Evocation)
 
 Level: Quest
-Sphere: Guardian, Creation 
-Range: Caster
+Sphere: Guardian, Creation
+Range: 0
 Duration: 1 turn
 Casting Time: 9
 Area of Effect: Special
