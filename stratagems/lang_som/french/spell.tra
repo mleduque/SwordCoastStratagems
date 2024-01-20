@@ -28,7 +28,7 @@ Le sort Appel de la foudre doit être lancé à l'extérieur, sinon il reste san
 
 @3="Dur[^e]+e[^:]*:" // must exactly match duration in BG version of 'protection from fire'
 @4="1 tour par niveau"
-@5="(Les effets de ce sort ne peuvent durer que 3 rounds \+ 1 round par niveau du lanceur\.)\|(Les effets de ce sort ne peuvent durer que 3 rounds \+ 1 round par niveau d'exp[^r]+rience du lanceur et ne sont pas cumulables\.)" // must exactly match first sentence of BG version of 'protection from fire'.
+@5="(Les effets de ce sort ne peuvent durer que 3[^r]+rounds \+ 1[^r]+round par niveau du lanceur\.)\|(Les effets de ce sort ne peuvent durer que 3 rounds \+ 1 round par niveau d'exp[^r]+rience du lanceur et ne sont pas cumulables\.)" // must exactly match first sentence of BG version of 'protection from fire'.
 
 @6="Mise à mort
 (Nécromancie)
@@ -70,34 +70,34 @@ Jet de sauvegarde : 1/2
 Ce sort permet au lanceur d'ériger un mur de lames tournoyantes, acérées comme des rasoirs. Elles scintillent et virevoltent à grande vitesse autour du lanceur, créant ainsi une barrière impénétrable qui se déplace avec lui. Toute créature tentant de traverser la Sphère de lames reçoit 10d10 points de dégâts tranchants à chaque round passé dans la zone d'effet de cette dernière. Les créatures se trouvant dans la zone d'effet de la Sphère de lames peuvent tenter un jet de sauvegarde contre les sorts à -2. S'il est réussi, alors seulement la moitié des dégâts sont infligés pour ce round. La Sphère de lames reste en place pendant 1 tour. Les sorts Barrière de lames et Sphère de lames sont cumulables."
 
 // @9 is a verbatim copy of IWD's description
-@9="Sol's Searing Orb
+@9="Orbe desséchant de Sol
 (Invocation)
 
-Level: 6
-Sphere: Sun
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 6
-Area of Effect: 1 creature
-Saving Throw: Special
+Niveau : 6
+Sphère : soleil
+Portée : champ visuel du lanceur
+Durée : instantanée
+Temps d'incantation : 6
+Zone d'effet : 1 créature
+Jet de sauvegarde : spécial
 
-This spell allows the caster to hurl a brilliant, searing flash at a target. When it hits, it explodes in a flash of light, doing 6d12 points of fire damage to the target and blinding <PRO_HIMHER> for 3 rounds if a Save vs. Spell is failed. If the Saving Throw is made, the target only takes half damage and is not blinded. Undead creatures are particularly vulnerable to this spell, taking double damage."
+Ce sort permet au lanceur de projeter un éclair brillant et brûlant sur une cible. Lorsqu'il atteint la cible, il explose dans un éclat de lumière, infligeant 6d12 points de dégâts de feu à la cible et l'aveuglant pendant 3 rounds si un jet de sauvegarde contre les sorts est raté. Si le jet de sauvegarde contre les sorts est réussi, la cible ne subit que la moitié des dégâts et n'est pas aveuglée. Les créatures mortes-vivantes sont particulièrement vulnérables à ce sort, subissant le double de dégâts."
 
 // @10 is a verbatim copy of IWD's description
 
-@10="Color Spray
-(Alteration)
+@10="Vapeur colorée
+(Transmutation)
 
-Level: 1
-Range: 12 ft.
-Duration: Instant
-Casting Time: 1
-Area of Effect: 29-ft. cone with 90-deg. arc
-Saving Throw: Special
+Niveau : 1
+Portée : 3,5 mètres
+Durée : instantanée
+Temps d'incantation : 1
+Zone d'effet : arc de 90° de 9 mètres de long
+Jet de sauvegarde : spécial
 
-This spell creates a vivid, fan-shaped spray of clashing colors to spring forth from the caster's hand. Creatures within the area are affected in order of increasing distance from the wizard. All creatures in the area above the level of the caster or ones that have greater than 6 Hit Dice must make a Save vs. Spell. The spell's effects depend on the caster—creatures with Hit Dice/levels fewer than or equal to the caster are knocked unconscious (do not awaken when struck) for 5 rounds, those with Hit Dice/levels one or two greater than the wizard are blinded for 3 rounds, and any other creatures are stunned for 1 round.
+Grâce à ce sort, une gerbe de couleurs vives en forme d'éventail jaillit de la main du lanceur. Les créatures situées dans la zone d'effet sont affectées dans l'ordre croissant de leur proximité au lanceur. Toute créature dans la zone d'effet ayant un niveau (ou dés de vie) supérieur à celui du lanceur ou ayant plus de 6 dés de vie (ou 6 niveaux d'expérience) peut tenter un jet de sauvegarde contre les sorts. Les effets du sort dépendent des dés de vie (ou niveaux d'expérience) du lanceur et des créatures affectées, les créatures ayant un nombre de dés de vie (ou niveaux d'expérience) inférieur ou égal au lanceur perdent connaissance pour 5 rounds (les attaques portées aux créatures ayant perdu connaissance n'échouent jamais et elles ne se réveilleront pas en subissant des dégâts), celles ayant un ou deux dés de vie (ou niveaux d'expérience) de plus que le lanceur sont aveuglées pendant 3 rounds et les autres sont étourdies pendant 1 round.
 
-Blind creatures are unaffected by the color spray."
+Les créatures aveuglées ne sont pas affectées par le sort Vapeur colorée."
 
 // @11 is a verbatim copy of IWD's description
 
