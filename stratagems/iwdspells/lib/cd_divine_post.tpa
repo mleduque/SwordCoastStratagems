@@ -60,6 +60,17 @@ DEFINE_ACTION_FUNCTION cd_divine_post BEGIN
       
   END      
 
+  // divine energy drain doesn't work on outer planars, &c. so apply the same restrictions for arcane energy drain
+  ACTION_IF VARIABLE_IS_SET $IWD_spell_installed("CLERIC_ENERGY_DRAIN") BEGIN  
+  
+    COPY_EXISTING ~%WIZARD_ENERGY_DRAIN%.spl~ ~override~
+      LPF CLONE_EFFECT INT_VAR match_opcode = 216 opcode = 324 parameter1 = 0 parameter2 = 55 timing = 0 duration = 1 STR_VAR insert = first resource = EVAL ~%SOURCE_RES%~ END
+      PATCH_FOR_EACH race IN 121 139 145 147 156 157 158 159 169 BEGIN 
+        LPF CLONE_EFFECT INT_VAR match_opcode = 324 multi_match = 1 parameter1 = race parameter2 = 104 END
+      END
+
+  END      
+
   /////                                                  \\\\\
   ///// cosmetic suggestions - thanks, Galactygon!       \\\\\
   /////                                                  \\\\\
@@ -94,18 +105,7 @@ DEFINE_ACTION_FUNCTION cd_divine_post BEGIN
     COPY_EXISTING ~%CLERIC_UNFAILING_ENDURANCE%.spl~ ~override~
       LPF ALTER_EFFECT INT_VAR match_opcode = 215 STR_VAR resource = shair END   
 
-  END      
-
-  ACTION_IF VARIABLE_IS_SET $IWD_spell_installed("CLERIC_STAR_METAL_CUDGEL") BEGIN
-
-    // Star Metal Cudgel: SMCUDGE.itm should use BG style visuals (conjuration/purple SHEARTH, glow) 
-    COPY_EXISTING ~smcudge.itm~ ~override~
-      LPF ALTER_EFFECT INT_VAR match_opcode = 9 match_parameter2 = 1179668 opcode = 8 parameter2 = 20 END  
-      LPF ALTER_EFFECT INT_VAR match_opcode = 9 match_parameter2 = 1572885 opcode = 8 parameter2 = 21 END  
-      LPF ALTER_EFFECT INT_VAR match_opcode = 9 match_parameter2 = 1966096 opcode = 8 parameter2 = 16 END  
-      LPF ALTER_EFFECT INT_VAR match_opcode = 215 STR_VAR resource = shearth END  
-
-  END      
+  END 
 
   ACTION_IF VARIABLE_IS_SET $IWD_spell_installed("CLERIC_MASS_CAUSE_LIGHT_WOUNDS") BEGIN
 
