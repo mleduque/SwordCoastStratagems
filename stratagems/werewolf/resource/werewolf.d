@@ -197,8 +197,8 @@ END
 
 IF ~~ THEN BEGIN dielikedogs
 SAY @21647 
-IF ~~ THEN DO ~Enemy() ActionOverride("baresh",Enemy())%ee_erase_string%~
-JOURNAL @21648 EXIT END
+  COPY_TRANS "%tutu_var%menda4" 5
+END
 
 IF ~~ THEN BEGIN nosailor
 SAY @21650
@@ -208,8 +208,15 @@ END
 
 IF ~~ THEN BEGIN wontliftgift
 SAY @21651
-IF ~~ THEN DO ~Enemy() ActionOverride("baresh",Enemy())%ee_erase_string%~
-JOURNAL @21648 EXIT END
+  COPY_TRANS "%tutu_var%menda4" 3
+END
+END
+
+ALTER_TRANS "%tutu_var%menda4"
+BEGIN dielikedogs wontliftgift END
+BEGIN END	// Empty list matches all transitions
+BEGIN
+  "SOLVED_JOURNAL"	~@21648~
 END
 
 REPLACE ~%tutu_var%baresh~
