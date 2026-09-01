@@ -4,11 +4,8 @@ DEFINE_ACTION_FUNCTION accelerate_thief_levelling BEGIN
 		LAF make_label STR_VAR label=dw#thief_ui_tweak END
 		ACTION_FOR_EACH input IN true false BEGIN
 			OUTER_SPRINT string "createCharScreen:OnThiefSkillPlusMinusButtonClick(chargen.thief_skill\[currentChargenThiefSkill\].id, %input%)"
-			OUTER_SPRINT string_new_base "createCharScreen:OnThiefSkillPlusMinusButtonClick(chargen.thief_skill[currentChargenThiefSkill].id, %input%)"
-			OUTER_SPRINT string_new "%string_new_base%%WNL%"
-			OUTER_FOR (i=0;i<4;i+=1) BEGIN
-				OUTER_SPRINT string_new "%string_new%%string_new_base%%WNL%"
-			END
+			// keep the replacement on one line so line-commented UI code remains commented
+			OUTER_SPRINT string_new "for dwSkillStep = 1, 5 do createCharScreen:OnThiefSkillPlusMinusButtonClick(chargen.thief_skill[ currentChargenThiefSkill ].id, %input%) end"
 			COPY_EXISTING "ui.menu" override
 				REPLACE_TEXTUALLY "%string%" "%string_new%"
 			BUT_ONLY
